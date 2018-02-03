@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GP Premium\n"
+"POT-Creation-Date: 2017-05-15 01:25+0100\n"
+"PO-Revision-Date: 2017-05-15 01:25+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-WPHeader: gp-premium.php\n"
+"X-Poedit-SearchPath-0: inc\n"
+"X-Poedit-SearchPath-1: gp-premium.php\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gp-premium.php:206
+msgid "GeneratePress has an update available."
+msgstr "Está disponível uma actualização do GeneratePress."
+
+#: gp-premium.php:208
+msgid "Update now."
+msgstr "Actualizar agora"
+
+#: gp-premium.php:220
+msgid "GP Premium requires GeneratePress to be your active theme."
+msgstr "O GP Premium requer que o GeneratePress seja o seu tema activo."
+
+#: gp-premium.php:221
+msgid "Install now."
+msgstr "Instalar agora"
+
+#: gp-premium.php:232
+msgid "Configure"
+msgstr "Configurar"
+
+#: inc/EDD_SL_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"Está disponível uma nova versão de %1$s. %2$sVer detalhes da versão %3$s%4$s."
+
+#: inc/EDD_SL_Plugin_Updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Está disponível uma nova versão de %1$s. %2$sVer detalhes da versão %3$s%4$s "
+"ou %5$sactualizar agora%6$s."
+
+#: inc/EDD_SL_Plugin_Updater.php:396
+msgid "You do not have permission to install plugin updates"
+msgstr "Não tem permissão para instalar actualizações de plugins"
+
+#: inc/EDD_SL_Plugin_Updater.php:396
+msgid "Error"
+msgstr "Erro"
+
+#: inc/activation.php:13
+msgid "Add-on deactivated."
+msgstr "Extensão desactivada."
+
+#: inc/activation.php:17
+msgid "Add-on activated."
+msgstr "Extensão activada."
+
+#. Plugin Name of the plugin/theme
+#: inc/activation.php:59
+msgid "GP Premium"
+msgstr "GP Premium"
+
+#: inc/activation.php:67
+msgid "Bulk Actions"
+msgstr "Acções por lotes"
+
+#: inc/activation.php:68 inc/activation.php:105
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/activation.php:69 inc/activation.php:89
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/activation.php:72
+msgid "Apply"
+msgstr "Aplicar"
+
+#: inc/activation.php:102
+msgid "WooCommerce not activated."
+msgstr "WooCommerce não activado."
+
+#: inc/activation.php:426
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+"Insira uma chave de licença válida para receber automaticamente as "
+"actualizações."
+
+#: inc/verify.php:78
+msgid "License deactivated."
+msgstr "Licença desactivada."
+
+#: inc/verify.php:82
+msgid "License activated."
+msgstr "Licença activada."
+
+#: inc/verify.php:115
+msgid "Updates"
+msgstr "Actualizações"
+
+#: inc/verify.php:115
+msgid "Help"
+msgstr "Ajuda"
+
+#: inc/verify.php:132
+msgid "Activated"
+msgstr "Activado"
+
+#: inc/verify.php:134
+msgid "Not activated"
+msgstr "Não activado"
+
+#: inc/verify.php:140
+msgid "License Key"
+msgstr "Chave de licença"
+
+#: inc/verify.php:145
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/verify.php:235
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "A sua licença expirou em %s."
+
+#: inc/verify.php:242
+msgid "Your license key has been disabled."
+msgstr "A sua licença foi desactivada."
+
+#: inc/verify.php:247
+msgid "Invalid license."
+msgstr "Licença inválida."
+
+#: inc/verify.php:253
+msgid "Your license is not active for this URL."
+msgstr "A sua licença não está activa para este URL."
+
+#: inc/verify.php:258
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "A chave da licença parece ser inválida para o %s."
+
+#: inc/verify.php:263
+msgid "Your license key has reached its activation limit."
+msgstr "A sua licença atingiu o limite de activações."
+
+#: inc/verify.php:268
+msgid "An error occurred, please try again."
+msgstr "Ocorreu um erro, por favor de novo."
+
+#. Plugin URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"
+
+#. Description of the plugin/theme
+msgid ""
+"The entire bundle of GeneratePress add-ons. Configure add-ons by going to <a "
+"href=\"themes.php?page=generate-options\">Appearance &gt; GeneratePress</a>."
+msgstr ""
+"O pacote completo de extensões do GeneratePress. Configure as extensões em "
+"<a href=\"themes.php?page=generate-options\">Apresentação > GeneratePress</"
+"a>."
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#~ msgid "WooCommerce not installed."
+#~ msgstr "WooCommerce não instalado."
+
+#, fuzzy
+#~ msgid "Updates %s"
+#~ msgstr "Actualizações %s"

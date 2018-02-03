@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Generate Menu Plus\n"
+"POT-Creation-Date: 2017-06-04 18:55-0300\n"
+"PO-Revision-Date: 2017-08-07 19:46-0300\n"
+"Language-Team: Caribdis.Net <info@caribdis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../../menu-plus/functions\n"
+"X-Poedit-WPHeader: generate-menu-plus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: generate-menu-plus.php:13
+msgid "Slideout Menu"
+msgstr "Menú deslizante"
+
+#: generate-menu-plus.php:25 generate-menu-plus.php:580
+msgid "Menu"
+msgstr "Menú"
+
+#: generate-menu-plus.php:58
+msgid "Menu Plus"
+msgstr "Menú Plus"
+
+#: generate-menu-plus.php:83
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: generate-menu-plus.php:101
+msgid "Mobile Menu Label"
+msgstr "Etiqueta de menú en móviles"
+
+#: generate-menu-plus.php:111 generate-menu-plus.php:132
+msgid "Sticky Navigation"
+msgstr "Navegación fija"
+
+#: generate-menu-plus.php:135 generate-menu-plus.php:333
+msgid "Mobile only"
+msgstr "Solo en móviles"
+
+#: generate-menu-plus.php:136 generate-menu-plus.php:334
+msgid "Desktop only"
+msgstr "Solo en escritorio"
+
+#: generate-menu-plus.php:137 generate-menu-plus.php:335
+msgid "Both"
+msgstr "Ambos"
+
+#: generate-menu-plus.php:138 generate-menu-plus.php:250
+#: generate-menu-plus.php:298 generate-menu-plus.php:336
+msgid "Disable"
+msgstr "Desactivar"
+
+#: generate-menu-plus.php:159
+msgid "Sticky Navigation Transition"
+msgstr "Transición de navegación fija"
+
+#: generate-menu-plus.php:162
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: generate-menu-plus.php:163
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: generate-menu-plus.php:164
+msgid "None"
+msgstr "Ninguno"
+
+#: generate-menu-plus.php:187
+msgid "Navigation Logo"
+msgstr "Logo de navegación"
+
+#: generate-menu-plus.php:209
+msgid "Navigation Logo Placement"
+msgstr "Ubicación del logo de navegación"
+
+#: generate-menu-plus.php:212
+msgid "Sticky"
+msgstr "Fija"
+
+#: generate-menu-plus.php:213
+msgid "Sticky + Static"
+msgstr "Fija + Estática"
+
+#: generate-menu-plus.php:214
+msgid "Static"
+msgstr "Estática"
+
+#: generate-menu-plus.php:226 generate-menu-plus.php:247
+msgid "Mobile Header"
+msgstr "Cabecera en móviles"
+
+#: generate-menu-plus.php:251 generate-menu-plus.php:297
+msgid "Enable"
+msgstr "Activar"
+
+#: generate-menu-plus.php:272
+msgid "Mobile Header Logo"
+msgstr "Logo de cabecera en móviles"
+
+#: generate-menu-plus.php:294
+msgid "Sticky Mobile Header"
+msgstr "Cabecera fija en móviles"
+
+#: generate-menu-plus.php:309
+msgid "Slide-out Navigation"
+msgstr "Navegación deslizante"
+
+#: generate-menu-plus.php:330
+msgid "Slideout Navigation"
+msgstr "Navegación deslizante"
+
+#: generate-menu-plus.php:623
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: import-export.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Advertencia: Esto borrará los ajustes."
+
+#: import-export.php:19
+msgid "Delete Menu Plus Settings"
+msgstr "Eliminar ajustes de Menú Plus"
+
+#: import-export.php:56
+msgid "Export Menu Plus Settings"
+msgstr "Exportar ajustes de Menú Plus"

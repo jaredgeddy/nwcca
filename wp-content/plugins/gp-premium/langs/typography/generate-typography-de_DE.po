@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2017-06-12 00:28-0700\n"
+"PO-Revision-Date: 2017-10-14 17:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: typography/functions/functions.php:45
+msgid "Typography"
+msgstr "Typografie"
+
+#: typography/functions/functions.php:54
+msgid "Body"
+msgstr "Rumpf (Body)"
+
+#: typography/functions/functions.php:146
+#: typography/functions/functions.php:337
+#: typography/functions/functions.php:466
+#: typography/functions/functions.php:578
+#: typography/functions/functions.php:702
+#: typography/functions/functions.php:831
+#: typography/functions/functions.php:946
+#: typography/functions/functions.php:1051
+#: typography/functions/functions.php:1165
+#: typography/functions/functions.php:1247
+#: typography/functions/secondary-nav-fonts.php:137
+#: typography/functions/woocommerce-fonts.php:99
+msgid "Font size"
+msgstr "Schriftgröße"
+
+#: typography/functions/functions.php:181
+msgid "Line height"
+msgstr "Zeilenhöhe"
+
+#: typography/functions/functions.php:216
+msgid "Paragraph margin"
+msgstr "Abstand nach Absatz"
+
+#: typography/functions/functions.php:239
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: typography/functions/functions.php:362
+msgid "Header"
+msgstr "Kopfbereich"
+
+#: typography/functions/functions.php:425
+msgid "Site title"
+msgstr "Titel der Webseite"
+
+#: typography/functions/functions.php:548
+msgid "Site tagline"
+msgstr "Website-Slogan (Untertitel)"
+
+#: typography/functions/functions.php:601
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: typography/functions/functions.php:733
+msgid "Content"
+msgstr "Inhaltsbereich"
+
+#: typography/functions/functions.php:793
+msgid "Heading 1 (H1)"
+msgstr "Überschrift 1 (H1)"
+
+#: typography/functions/functions.php:908
+msgid "Heading 2 (H2)"
+msgstr "Überschrift 2 (H2)"
+
+#: typography/functions/functions.php:1023
+msgid "Heading 3 (H3)"
+msgstr "Überschrift 3 (H3)"
+
+#: typography/functions/functions.php:1073
+msgid "Widgets"
+msgstr "Widgets"
+
+#: typography/functions/functions.php:1136
+msgid "Widget titles"
+msgstr "Widget-Titel"
+
+#: typography/functions/functions.php:1200
+msgid "Content font size"
+msgstr "Schriftgröße des Inhalts"
+
+#: typography/functions/functions.php:1223
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: typography/functions/secondary-nav-fonts.php:46
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: typography/functions/woocommerce-fonts.php:63
+msgid "Product titles"
+msgstr "Produkt Titel"
+
+#: typography/functions/woocommerce-fonts.php:142
+msgid "Related/upsell title font size"
+msgstr "Ähnliche/Angebote Titel Schriftgröße"
+
+#~ msgid "Default fonts"
+#~ msgstr "Standard-Schriftarten"
+
+#~ msgid "Google fonts"
+#~ msgstr "Google fonts"
+
+#~ msgid "Font family"
+#~ msgstr "Schriftfamilie"
+
+#~ msgid "Text transform"
+#~ msgstr "Text Umwandlung"
+
+#~ msgid "Site navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Font-size"
+#~ msgstr "Schriftgröße"
+
+#~ msgid "Footer font size"
+#~ msgstr "Schriftgröße des Fußbereichs"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile Geräte"
+
+#~ msgid "H1 font size"
+#~ msgstr "H1 Schriftgröße"
+
+#~ msgid "H2 font size"
+#~ msgstr "H2 Schriftgröße"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$sverfügbar. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Zeige Details der Version %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$s verfügbar. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Zeige Details zu Version %3$s </a> oder <a "
+#~ "href=\"%4$s\">aktualisiere jetzt.</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "Body Typography"
+#~ msgstr "Schriftart des Body"
+
+#~ msgid "Header Typography"
+#~ msgstr "Schriftart des Kopfbereichs"
+
+#~ msgid "Navigation Typography"
+#~ msgstr "Schriftart der Navigation"
+
+#~ msgid "Content Typography"
+#~ msgstr "Schriftart des Inhalts"
+
+#~ msgid "Widget Typography"
+#~ msgstr "Widget-Typografie"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail "
+#~ "mit der Du bezahlt hast."
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "E-Mail deaktivieren"
+
+#~ msgid "Activate Email"
+#~ msgstr "E-Mail aktivieren"
+
+#~ msgid "Save Email"
+#~ msgstr "E-Mail speichern"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Alle Updates aktivieren"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Updates deaktivieren"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Updates aktivieren"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+#~ "Aufzeichnungen vorhanden."
+
+#~ msgid "Email activated."
+#~ msgstr "E-Mail aktiviert."
+
+#~ msgid "Email deactivated."
+#~ msgstr "E-Mail deaktiviert."
+
+#~ msgid "License failed."
+#~ msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#~ msgid "License activated."
+#~ msgstr "Lizenz aktiviert."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Lizenzen aktiviert."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivierung ist fehlgeschlagen."
+
+#~ msgid "License deactivated."
+#~ msgstr "Lizenz deaktiviert."
+
+#~ msgid "verified"
+#~ msgstr "bestätigt"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "unverified"
+#~ msgstr "Ungeprüft"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Typography Installed"
+#~ msgstr "Typografie installiert"
+
+#~ msgid "Please enter your license key in order to use this plugin."
+#~ msgstr ""
+#~ "Bitte geben Sie Ihren Lizenzschlüssel ein, um dieses Plugin zu verwenden."
+
+#~ msgid "Deactivate License"
+#~ msgstr "Lizenz deaktivieren"
+
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "Activate License"
+#~ msgstr "Lizenz aktivieren"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Generate Typography License Key"
+#~ msgstr "Typografie-Lizenz-Schlüssel generieren"
+
+#~ msgid ""
+#~ "Activate your addons by entering the email you purchased them with below. "
+#~ "Save and verify, then your purchased addons will appear below for "
+#~ "activation."
+#~ msgstr ""
+#~ "Aktivieren Sie Ihre Addons durch Eingabe der e-Mail, die Sie beim Kauf "
+#~ "genutzt haben. Speichern Sie zur Überprüfung und anschließend stehen die "
+#~ "gekauften Addons zur Verfügung."
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Refresh"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Verify Email"
+#~ msgstr "E-Mail bestätigen"
+
+#~ msgid "Activate All"
+#~ msgstr "Alle aktivieren"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Once Every 3 Days"
+#~ msgstr "Einmal alle 3 Tage"

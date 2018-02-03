@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2017-03-09 11:42-0800\n"
+"PO-Revision-Date: 2015-05-19 10:39-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: secondary-nav\n"
+
+#: secondary-nav/functions/functions.php:20
+msgid "Secondary Menu"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:137
+#: secondary-nav/functions/functions.php:146
+msgid "Secondary Navigation"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:165
+msgid "Mobile Menu Label"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:187
+msgid "Navigation Width"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:190
+#: secondary-nav/functions/functions.php:216
+msgid "Full"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:191
+#: secondary-nav/functions/functions.php:217
+msgid "Contained"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:213
+msgid "Inner Navigation Width"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:239
+msgid "Navigation Location"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:242
+msgid "Below Header"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:243
+msgid "Above Header"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:244
+msgid "Float Right"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:245
+msgid "Left Sidebar"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:246
+msgid "Right Sidebar"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:247
+msgid "No Navigation"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:269
+msgid "Navigation Alignment"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:272
+msgid "Left"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:273
+msgid "Center"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:274
+msgid "Right"
+msgstr ""
+
+#: secondary-nav/functions/functions.php:295
+msgid "Merge with Secondary Navigation"
+msgstr ""
+
+#: secondary-nav/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: secondary-nav/functions/ie.php:19
+msgid "Delete Secondary Nav Settings"
+msgstr ""
+
+#: secondary-nav/functions/ie.php:55
+msgid "Export Secondary Nav Settings"
+msgstr ""

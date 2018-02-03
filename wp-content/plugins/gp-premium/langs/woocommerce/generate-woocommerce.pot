@@ -1,0 +1,238 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Generate WooCommerce\n"
+"POT-Creation-Date: 2017-05-15 01:29+0100\n"
+"PO-Revision-Date: 2017-05-03 13:01-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../../woocommerce\n"
+"X-Poedit-WPHeader: woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions/customizer/customizer.php:42
+#: functions/customizer/customizer.php:708
+#: functions/customizer/customizer.php:718
+msgid "WooCommerce"
+msgstr ""
+
+#: functions/customizer/customizer.php:56
+msgid "General"
+msgstr ""
+
+#: functions/customizer/customizer.php:75
+msgid "Display cart in menu"
+msgstr ""
+
+#: functions/customizer/customizer.php:94
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: functions/customizer/customizer.php:107
+msgid "Shop"
+msgstr ""
+
+#: functions/customizer/customizer.php:126
+#: functions/customizer/customizer.php:546
+msgid "Sidebar Layout"
+msgstr ""
+
+#: functions/customizer/customizer.php:129
+#: functions/customizer/customizer.php:550
+msgid "Sidebar / Content"
+msgstr ""
+
+#: functions/customizer/customizer.php:130
+#: functions/customizer/customizer.php:551
+msgid "Content / Sidebar"
+msgstr ""
+
+#: functions/customizer/customizer.php:131
+#: functions/customizer/customizer.php:552
+msgid "Content (no sidebars)"
+msgstr ""
+
+#: functions/customizer/customizer.php:132
+#: functions/customizer/customizer.php:553
+msgid "Sidebar / Content / Sidebar"
+msgstr ""
+
+#: functions/customizer/customizer.php:133
+#: functions/customizer/customizer.php:554
+msgid "Sidebar / Sidebar / Content"
+msgstr ""
+
+#: functions/customizer/customizer.php:134
+#: functions/customizer/customizer.php:555
+msgid "Content / Sidebar / Sidebar"
+msgstr ""
+
+#: functions/customizer/customizer.php:153
+#: functions/customizer/customizer.php:262
+msgid "Products Per Page"
+msgstr ""
+
+#: functions/customizer/customizer.php:191
+msgid "Product Columns"
+msgstr ""
+
+#: functions/customizer/customizer.php:238
+msgid "Image Alignment"
+msgstr ""
+
+#: functions/customizer/customizer.php:241
+#: functions/customizer/customizer.php:284
+msgid "Left"
+msgstr ""
+
+#: functions/customizer/customizer.php:242
+#: functions/customizer/customizer.php:285
+msgid "Center"
+msgstr ""
+
+#: functions/customizer/customizer.php:243
+#: functions/customizer/customizer.php:286
+msgid "Right"
+msgstr ""
+
+#: functions/customizer/customizer.php:281
+msgid "Text Alignment"
+msgstr ""
+
+#: functions/customizer/customizer.php:305
+msgid "Display page title"
+msgstr ""
+
+#: functions/customizer/customizer.php:324
+msgid "Display product results count"
+msgstr ""
+
+#: functions/customizer/customizer.php:343
+msgid "Display product sorting"
+msgstr ""
+
+#: functions/customizer/customizer.php:362
+msgid "Display product image"
+msgstr ""
+
+#: functions/customizer/customizer.php:381
+msgid "Display secondary image on hover"
+msgstr ""
+
+#: functions/customizer/customizer.php:400
+msgid "Display product title"
+msgstr ""
+
+#: functions/customizer/customizer.php:419
+msgid "Display sale flash"
+msgstr ""
+
+#: functions/customizer/customizer.php:438
+msgid "Sale flash over image"
+msgstr ""
+
+#: functions/customizer/customizer.php:457
+msgid "Display rating"
+msgstr ""
+
+#: functions/customizer/customizer.php:476
+msgid "Display price"
+msgstr ""
+
+#: functions/customizer/customizer.php:495
+msgid "Display add to cart button"
+msgstr ""
+
+#: functions/customizer/customizer.php:514
+#: functions/customizer/customizer.php:699
+msgid "Display short description"
+msgstr ""
+
+#: functions/customizer/customizer.php:527
+msgid "Single Product"
+msgstr ""
+
+#: functions/customizer/customizer.php:549
+msgid "inherit"
+msgstr ""
+
+#: functions/customizer/customizer.php:574
+msgid "Display product tabs"
+msgstr ""
+
+#: functions/customizer/customizer.php:593
+msgid "Display related products"
+msgstr ""
+
+#: functions/customizer/customizer.php:612
+msgid "Display upsell products"
+msgstr ""
+
+#: functions/customizer/customizer.php:641
+msgid "Related/Upsell Columns"
+msgstr ""
+
+#: functions/customizer/customizer.php:680
+msgid "Display product meta data"
+msgstr ""
+
+#: functions/customizer/customizer.php:731
+msgid "Primary button colors"
+msgstr ""
+
+#: functions/customizer/customizer.php:732
+msgid "Primary button colors can be set <a href=\"#\">here</a>."
+msgstr ""
+
+#: functions/customizer/customizer.php:746
+msgid "Checkout"
+msgstr ""
+
+#: functions/customizer/customizer.php:765
+msgid "Distraction-free mode"
+msgstr ""
+
+#: functions/customizer/customizer.php:766
+msgid ""
+"Remove unnecessary distractions like sidebars, footer widgets and sticky "
+"menus."
+msgstr ""
+
+#: functions/functions.php:310 functions/functions.php:324
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions/functions.php:541
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: functions/functions.php:543
+msgid "Not yet rated"
+msgstr ""
+
+#: functions/functions.php:548
+msgid "out of 5"
+msgstr ""
+
+#: functions/import-export.php:17
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: functions/import-export.php:19
+msgid "Delete WooCommerce Settings"
+msgstr ""
+
+#: functions/import-export.php:56
+msgid "Export WooCommerce Settings"
+msgstr ""

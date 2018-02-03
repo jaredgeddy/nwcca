@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Blog\n"
+"POT-Creation-Date: 2017-06-04 18:20-0300\n"
+"PO-Revision-Date: 2017-08-07 19:54-0300\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language-Team: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../../blog/functions\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog/functions/customizer.php:21
+msgid "Blog"
+msgstr "Blog"
+
+#: blog/functions/customizer.php:42
+msgid "Blog Content"
+msgstr "Contenido del blog"
+
+#: blog/functions/customizer.php:62
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: blog/functions/customizer.php:83
+msgid "Read more label"
+msgstr "Etiqueta \"Leer más\""
+
+#: blog/functions/customizer.php:94 blog/functions/customizer.php:115
+msgid "Masonry"
+msgstr "Grilla"
+
+#: blog/functions/customizer.php:118 blog/functions/customizer.php:537
+#: blog/functions/customizer.php:589
+msgid "Enable"
+msgstr "Activar"
+
+#: blog/functions/customizer.php:119 blog/functions/customizer.php:538
+#: blog/functions/customizer.php:590
+msgid "Disable"
+msgstr "Desactivar"
+
+#: blog/functions/customizer.php:140
+msgid "Masonry Block Width"
+msgstr "Ancho de bloque del diseño en grilla"
+
+#: blog/functions/customizer.php:143 blog/functions/customizer.php:169
+#: blog/functions/masonry.php:85
+msgid "Small"
+msgstr "Pequeño"
+
+#: blog/functions/customizer.php:144 blog/functions/customizer.php:170
+#: blog/functions/masonry.php:86
+msgid "Medium"
+msgstr "Mediano"
+
+#: blog/functions/customizer.php:145 blog/functions/customizer.php:171
+#: blog/functions/masonry.php:87
+msgid "Large"
+msgstr "Grande"
+
+#: blog/functions/customizer.php:166
+msgid "Masonry Most Recent Width"
+msgstr "Ancho de \"Más recientes\" del diseño en grilla"
+
+#: blog/functions/customizer.php:190
+msgid "Masonry Load More Text"
+msgstr "Texto \"Cargar más\" del diseño en grilla"
+
+#: blog/functions/customizer.php:209
+msgid "Masonry Loading Text"
+msgstr "Texto de carga del diseño en grilla"
+
+#: blog/functions/customizer.php:220
+msgid "Featured Images"
+msgstr "Imágenes destacadas"
+
+#: blog/functions/customizer.php:241
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: blog/functions/customizer.php:244 blog/functions/customizer.php:386
+#: blog/functions/customizer.php:411 blog/functions/customizer.php:436
+#: blog/functions/customizer.php:461 blog/functions/customizer.php:486
+msgid "Show"
+msgstr "Mostrar"
+
+#: blog/functions/customizer.php:245 blog/functions/customizer.php:387
+#: blog/functions/customizer.php:412 blog/functions/customizer.php:437
+#: blog/functions/customizer.php:462 blog/functions/customizer.php:487
+msgid "Hide"
+msgstr "Ocultar"
+
+#: blog/functions/customizer.php:266
+msgid "Location"
+msgstr "Ubicación"
+
+#: blog/functions/customizer.php:269
+msgid "Below Title"
+msgstr "Debajo del título"
+
+#: blog/functions/customizer.php:270
+msgid "Above Title"
+msgstr "Arriba del título"
+
+#: blog/functions/customizer.php:291
+msgid "Alignment"
+msgstr "Alineación"
+
+#: blog/functions/customizer.php:294
+msgid "Center"
+msgstr "Centro"
+
+#: blog/functions/customizer.php:295
+msgid "Left"
+msgstr "Izquierda"
+
+#: blog/functions/customizer.php:296
+msgid "Right"
+msgstr "Derecha"
+
+#: blog/functions/customizer.php:318
+msgid "Width (px)"
+msgstr "Ancho (px)"
+
+#: blog/functions/customizer.php:322 blog/functions/customizer.php:348
+msgid "Auto"
+msgstr "Automático"
+
+#: blog/functions/customizer.php:344
+msgid "Height (px)"
+msgstr "Altura (px)"
+
+#: blog/functions/customizer.php:362
+msgid "Apply image sizes"
+msgstr "Aplicar tamaños de imagen"
+
+#: blog/functions/customizer.php:383
+msgid "Date"
+msgstr "Fecha"
+
+#: blog/functions/customizer.php:408
+msgid "Author"
+msgstr "Autor"
+
+#: blog/functions/customizer.php:433
+msgid "Categories"
+msgstr "Categorías"
+
+#: blog/functions/customizer.php:458
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: blog/functions/customizer.php:483
+msgid "Comment Link"
+msgstr "Enlace al comentario"
+
+#: blog/functions/customizer.php:498 blog/functions/customizer.php:559
+msgid "Columns"
+msgstr "Columnas"
+
+#: blog/functions/customizer.php:512
+msgid "Masonry is enabled. These settings will be ignored."
+msgstr "La grilla está activada. Estos ajustes serán ignorados."
+
+#: blog/functions/customizer.php:534
+msgid "Column Layout"
+msgstr "Diseño de columna"
+
+#: blog/functions/customizer.php:586
+msgid "First Post Full Width"
+msgstr "Ancho completo de primera entrada"
+
+#: blog/functions/defaults.php:18
+msgid "Read more"
+msgstr "Leer más"
+
+#: blog/functions/defaults.php:22
+msgid "+ More"
+msgstr "+ Más"
+
+#: blog/functions/defaults.php:23
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: blog/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Advertencia: Esto borrará los ajustes."
+
+#: blog/functions/ie.php:19
+msgid "Delete Blog Settings"
+msgstr "Eliminar ajustes de blog"
+
+#: blog/functions/ie.php:56
+msgid "Export Blog Settings"
+msgstr "Exportar ajustes de blog"
+
+#: blog/functions/masonry.php:55 blog/functions/masonry.php:82
+msgid "Masonry Post Width"
+msgstr "Ancho de entradas en grilla"
+
+#: blog/functions/masonry.php:84
+msgid "Global setting"
+msgstr "Ajuste global"

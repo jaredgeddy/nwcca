@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Import Export\n"
+"POT-Creation-Date: 2017-03-09 02:35+0000\n"
+"PO-Revision-Date: 2017-03-09 08:40+0000\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: import-export\n"
+
+#: import-export/functions/functions.php:11
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: import-export/functions/functions.php:13
+#, php-format
+msgid ""
+"<strong>Export</strong> your settings set in the <a href=\"%s\">Customizer</"
+"a>."
+msgstr ""
+"<strong>Exporte</strong> as suas configurações do <a href=\"%s"
+"\">personalizador</a>."
+
+#: import-export/functions/functions.php:18
+msgid "Export Default Settings"
+msgstr "Exportar configurações"
+
+#: import-export/functions/functions.php:26
+msgid ""
+"<strong>Import</strong> your settings by uploading your exported .json file."
+msgstr ""
+"<strong>Importe</strong> as suas configurações carregando o seu ficheiro ."
+"json exportado anteriormente."
+
+#: import-export/functions/functions.php:34
+msgid "Import Settings"
+msgstr "Importar configurações"
+
+#: import-export/functions/functions.php:98
+msgid "Please upload a valid .json file"
+msgstr "Por favor, carregue um ficheiro .json válido"
+
+#: import-export/functions/functions.php:104
+msgid "Please upload a file to import"
+msgstr "Por favor, carregue um ficheiro para importar"
+
+#: import-export/functions/functions.php:124
+msgid "Not a valid option name."
+msgstr "Não é um nome de opção válido."
+
+#~ msgid "Export Default Customizer Settings"
+#~ msgstr "Exportar configurações"

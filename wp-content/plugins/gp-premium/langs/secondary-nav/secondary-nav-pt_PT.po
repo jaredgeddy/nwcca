@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2017-03-09 02:37+0000\n"
+"PO-Revision-Date: 2017-03-09 10:22+0000\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../../secondary-nav\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/functions.php:20
+msgid "Secondary Menu"
+msgstr "Menu secundário"
+
+#: functions/functions.php:137 functions/functions.php:146
+msgid "Secondary Navigation"
+msgstr "Navegação secundária"
+
+#: functions/functions.php:165
+msgid "Mobile Menu Label"
+msgstr "Legenda do menu mobile"
+
+#: functions/functions.php:187
+msgid "Navigation Width"
+msgstr "Largura da navegação"
+
+#: functions/functions.php:190 functions/functions.php:216
+msgid "Full"
+msgstr "Em toda a largura"
+
+#: functions/functions.php:191 functions/functions.php:217
+msgid "Contained"
+msgstr "Limitada"
+
+#: functions/functions.php:213
+msgid "Inner Navigation Width"
+msgstr "Largura interior da navegação"
+
+#: functions/functions.php:239
+msgid "Navigation Location"
+msgstr "Localização da navegação"
+
+#: functions/functions.php:242
+msgid "Below Header"
+msgstr "Abaixo do cabeçalho"
+
+#: functions/functions.php:243
+msgid "Above Header"
+msgstr "Acima do cabeçalho"
+
+#: functions/functions.php:244
+msgid "Float Right"
+msgstr "Flutuar para a direita"
+
+#: functions/functions.php:245
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: functions/functions.php:246
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: functions/functions.php:247
+msgid "No Navigation"
+msgstr "Sem navegação"
+
+#: functions/functions.php:269
+msgid "Navigation Alignment"
+msgstr "Alinhamento da navegação"
+
+#: functions/functions.php:272
+msgid "Left"
+msgstr "Esquerda"
+
+#: functions/functions.php:273
+msgid "Center"
+msgstr "Centro"
+
+#: functions/functions.php:274
+msgid "Right"
+msgstr "Direita"
+
+#: functions/functions.php:295
+msgid "Merge with Secondary Navigation"
+msgstr "Unir com navegação secundária"
+
+#: functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Aviso: Isto irá eliminar as suas configurações."
+
+#: functions/ie.php:19
+msgid "Delete Secondary Nav Settings"
+msgstr "Eliminar configurações de Secondary Navigation"
+
+#: functions/ie.php:55
+msgid "Export Secondary Nav Settings"
+msgstr "Exportar configurações de Secondary Navigation"
+
+#~ msgid "Navigation"
+#~ msgstr "Navegação"
+
+#~ msgid "Repeat"
+#~ msgstr "Repetir"
+
+#~ msgid "Repeat x"
+#~ msgstr "Repetir na horizontal"
+
+#~ msgid "Repeat y"
+#~ msgstr "Repetir na vertical"
+
+#~ msgid "No Repeat"
+#~ msgstr "Não repetir"
+
+#~ msgid "Navigation Item"
+#~ msgstr "Item de navegação"
+
+#~ msgid "Navigation Item Hover"
+#~ msgstr "Item de navegação ao passar com o rato"
+
+#~ msgid "Navigation Item Current"
+#~ msgstr "Item de navegação activo"
+
+#~ msgid "Secondary Sub-Navigation"
+#~ msgstr "Navegação secundária - subitens"
+
+#~ msgid "Sub-Navigation Item"
+#~ msgstr "Subitem de navegação"
+
+#~ msgid "Sub-Navigation Item Hover"
+#~ msgstr "Subitem de navegação ao passar com o rato"
+
+#~ msgid "Sub-Navigation Item Current"
+#~ msgstr "Subitem de navegação activo"
+
+#~ msgid "Background"
+#~ msgstr "Cor de fundo"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Background Hover"
+#~ msgstr "Fundo ao passar com o rato"
+
+#~ msgid "Text Hover"
+#~ msgstr "Texto ao passar com o rato"
+
+#~ msgid "Background Current"
+#~ msgstr "Fundo activo"
+
+#~ msgid "Text Current"
+#~ msgstr "Texto activo"
+
+#~ msgid "Secondary Menu Items"
+#~ msgstr "Itens de menu secundário"
+
+#~ msgid "Left/Right Spacing"
+#~ msgstr "Espaçamento à esquerda e direita"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Sub-Menu Item Height"
+#~ msgstr "Altura do item de submenu"
+
+#~ msgid "The top and bottom spacing of sub-menu items."
+#~ msgstr "Espaçamento superior e inferior dos itens de submenu."
+
+#~ msgid "Secondary navigation"
+#~ msgstr "Navegação secundária"
+
+#~ msgid "Font weight"
+#~ msgstr "Peso da fonte"
+
+#~ msgid "Text transform"
+#~ msgstr "Transformar texto"
+
+#~ msgid "Font size"
+#~ msgstr "Tamanho da fonte"
+
+#~ msgid "Delete Secondary Navigation Customizer Settings"
+#~ msgstr "Eliminar configurações de Secondary Navigation"
+
+#~ msgid "Export Secondary Navigation Customizer Settings"
+#~ msgstr "Exportar configurações de Secondary Navigation"
+
+#~ msgid "Navigation Layout"
+#~ msgstr "Layout da navegação"
+
+#, fuzzy
+#~ msgid "Fluid / Full Width"
+#~ msgstr "Fluído / Largura Total"
+
+#~ msgid "Navigation Position"
+#~ msgstr "Posição da navegação"

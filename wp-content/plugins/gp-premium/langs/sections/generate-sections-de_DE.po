@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Sections\n"
+"POT-Creation-Date: 2017-03-09 11:42-0800\n"
+"PO-Revision-Date: 2017-10-14 17:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/acf\n"
+
+#: sections/functions/metaboxes/metabox-functions.php:47
+msgid "Use Sections"
+msgstr "Nutze Abschnitte (Sections)"
+
+#: sections/functions/metaboxes/metabox-functions.php:48
+msgid "Sections"
+msgstr "Abschnitte (Sections)"
+
+#: sections/functions/metaboxes/metabox-functions.php:211
+msgid "This action can not be undone, are you sure?"
+msgstr "Dieser Vorgang kann nicht rückgängig gemacht werden. Bis du sicher?"
+
+#: sections/functions/metaboxes/metabox-functions.php:214
+msgid "Section"
+msgstr "Abschnitt"
+
+#: sections/functions/metaboxes/metabox-functions.php:215
+#: sections/functions/metaboxes/metabox-functions.php:218
+msgid "Content"
+msgstr "Inhalt"
+
+#: sections/functions/metaboxes/metabox-functions.php:217
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: sections/functions/metaboxes/metabox-functions.php:223
+msgid "Section Background"
+msgstr "Abschnitts-Hintergrund"
+
+#: sections/functions/metaboxes/metabox-functions.php:224
+msgid "Set as Section Background"
+msgstr "Als Abschnittshintergrund setzen"
+
+#: sections/functions/metaboxes/metabox-functions.php:228
+msgid "Insert into Section"
+msgstr "In Abschnitt einfügen"
+
+#: sections/functions/metaboxes/metabox-functions.php:229
+#: sections/functions/metaboxes/views/sections-template.php:74
+msgid "Edit Section"
+msgstr "Abschnitt bearbeiten"
+
+#: sections/functions/metaboxes/views/sections-template.php:35
+msgid "Click to edit"
+msgstr "Zum Bearbeiten klicken"
+
+#: sections/functions/metaboxes/views/sections-template.php:37
+msgid "Click to edit content"
+msgstr "Klicke um Inhalt zu bearbeiten"
+
+#: sections/functions/metaboxes/views/sections-template.php:38
+msgid "Click to edit settings"
+msgstr "Klicke um die Einstellungen zu bearbeiten"
+
+#: sections/functions/metaboxes/views/sections-template.php:39
+msgid "Click and drag to sort"
+msgstr "Klicken und Ziehen, um neu anzuordnen"
+
+#: sections/functions/metaboxes/views/sections-template.php:40
+msgid "Click to remove"
+msgstr "Zum Entfernen klicken"
+
+#: sections/functions/metaboxes/views/sections-template.php:54
+msgid "Add Section"
+msgstr "Abschnitt hinzufügen"
+
+#: sections/functions/metaboxes/views/sections-template.php:55
+msgid "Remove Sections"
+msgstr "Abschnitt entfernen"
+
+#: sections/functions/metaboxes/views/sections-template.php:69
+msgid "Close"
+msgstr "Schließen"
+
+#: sections/functions/metaboxes/views/sections-template.php:80
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: sections/functions/metaboxes/views/sections-template.php:81
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: sections/functions/metaboxes/views/sections-template.php:110
+msgid "Section Label"
+msgstr "Beschriftung des Abschnitts"
+
+#: sections/functions/metaboxes/views/sections-template.php:126
+msgid "Add Media"
+msgstr "Medien hinzufügen"
+
+#: sections/functions/metaboxes/views/sections-template.php:131
+msgid "Visual"
+msgstr "Visuell"
+
+#: sections/functions/metaboxes/views/sections-template.php:132
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr "Code"
+
+#: sections/functions/metaboxes/views/sections-template.php:161
+msgid "Layout"
+msgstr "Layout"
+
+#: sections/functions/metaboxes/views/sections-template.php:162
+msgid "Box Type"
+msgstr "Box-Typ"
+
+#: sections/functions/metaboxes/views/sections-template.php:166
+#: sections/functions/metaboxes/views/sections-template.php:176
+msgid "Full Width"
+msgstr "Volle Breite"
+
+#: sections/functions/metaboxes/views/sections-template.php:167
+#: sections/functions/metaboxes/views/sections-template.php:175
+msgid "Contained"
+msgstr "Enthalten"
+
+#: sections/functions/metaboxes/views/sections-template.php:171
+msgid "Inner Box Type"
+msgstr "Innerer Box-Typ"
+
+#: sections/functions/metaboxes/views/sections-template.php:180
+#, fuzzy
+#| msgid "Custom Classes"
+msgid "Custom ID"
+msgstr "Eigene CSS-Klassen"
+
+#: sections/functions/metaboxes/views/sections-template.php:186
+msgid "Custom Classes"
+msgstr "Eigene CSS-Klassen"
+
+#: sections/functions/metaboxes/views/sections-template.php:192
+msgid "Top Padding"
+msgstr "Oberer  Abstand"
+
+#: sections/functions/metaboxes/views/sections-template.php:201
+msgid "Bottom Padding"
+msgstr "Unterer Abstand"
+
+#: sections/functions/metaboxes/views/sections-template.php:211
+msgid "Colors"
+msgstr "Farben"
+
+#: sections/functions/metaboxes/views/sections-template.php:212
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: sections/functions/metaboxes/views/sections-template.php:217
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: sections/functions/metaboxes/views/sections-template.php:223
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: sections/functions/metaboxes/views/sections-template.php:229
+msgid "Link Color Hover"
+msgstr "Linkfarbe bei Mauskontakt"
+
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Background"
+msgstr "Hintergrund"
+
+#: sections/functions/metaboxes/views/sections-template.php:237
+#: sections/functions/metaboxes/views/sections-template.php:242
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: sections/functions/metaboxes/views/sections-template.php:242
+msgid "Upload"
+msgstr "Hochladen"
+
+#: sections/functions/metaboxes/views/sections-template.php:243
+msgid "Remove"
+msgstr "Entfernen"
+
+#: sections/functions/metaboxes/views/sections-template.php:247
+msgid "Parallax Effect"
+msgstr "Parallax Effekt"
+
+#: sections/functions/metaboxes/views/sections-template.php:250
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: sections/functions/metaboxes/views/sections-template.php:251
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: sections/functions/metaboxes/views/sections.php:8
+msgid "Javascript must be enabled to use Generate Sections"
+msgstr "JavaScript muss aktiviert werden, um Abschnitte nutzen zu können"
+
+#: sections/functions/templates/template.php:107
+msgid "No sections added!"
+msgstr "Es wurden keine Abschnitte hinzugefügt!"
+
+#~ msgid "Error: Content already detected in default editor."
+#~ msgstr "Fehler: Inhalt bereits im Standard-Editor erfasst."
+
+#~ msgid ""
+#~ "Please activate the \"Visual\" tab in your main editor before "
+#~ "transferring content."
+#~ msgstr ""
+#~ "Bitte aktivieren Sie die Registerkarte \"Visuell\" im Editor bevor Inhalt "
+#~ "übertragen wird."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Neue Version von %1$s verfügbar. <a target=\\“_blank\\“ class=\\“thickbox"
+#~ "\\“ href=\\“%2$s\\“>Details zu Version %3$s anzeigen</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$s verfügbar. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Zeige Details zu Version %3$s </a> oder <a "
+#~ "href=\"%4$s\">aktualisiere jetzt.</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "Click the \"%s\" button below to start creating your sections."
+#~ msgstr ""
+#~ "Klicken Sie auf den Button \"%s\" um mit dem Erstellen von Abschnitten zu "
+#~ "beginnen."
+
+#~ msgid "Add New"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Fluid"
+#~ msgstr "Fluid"
+
+#~ msgid "contained"
+#~ msgstr "enthalten"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail "
+#~ "mit der Du bezahlt hast."
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "E-Mail deaktivieren"
+
+#~ msgid "Activate Email"
+#~ msgstr "E-Mail aktivieren"
+
+#~ msgid "Save Email"
+#~ msgstr "E-Mail speichern"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Alle Updates aktivieren"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+#~ "Aufzeichnungen vorhanden."
+
+#~ msgid "Email activated."
+#~ msgstr "E-Mail aktiviert."
+
+#~ msgid "Email deactivated."
+#~ msgstr "E-Mail deaktiviert."
+
+#~ msgid "License failed."
+#~ msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#~ msgid "License activated."
+#~ msgstr "Lizenz aktiviert."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Lizenzen aktiviert."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivierung ist fehlgeschlagen."
+
+#~ msgid "License deactivated."
+#~ msgstr "Lizenz deaktiviert."
+
+#~ msgid "Disable Updates"
+#~ msgstr "Updates deaktivieren"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Updates aktivieren"

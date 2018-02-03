@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Sections\n"
+"POT-Creation-Date: 2017-06-22 13:25-0300\n"
+"PO-Revision-Date: 2017-08-07 19:50-0300\n"
+"Language-Team: Caribdis.Net <info@caribdis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: sections\n"
+"X-Poedit-SearchPathExcluded-0: sections/functions/_deprecated-functions.php\n"
+
+#: sections/functions/metaboxes/metabox-functions.php:47
+msgid "Use Sections"
+msgstr "Usar secciones"
+
+#: sections/functions/metaboxes/metabox-functions.php:48
+msgid "Sections"
+msgstr "Secciones"
+
+#: sections/functions/metaboxes/metabox-functions.php:211
+msgid "This action can not be undone, are you sure?"
+msgstr "Esta acción no se puede deshacer, ¿está seguro?"
+
+#: sections/functions/metaboxes/metabox-functions.php:214
+msgid "Section"
+msgstr "Sección"
+
+#: sections/functions/metaboxes/metabox-functions.php:215
+#: sections/functions/metaboxes/metabox-functions.php:218
+msgid "Content"
+msgstr "Contenido"
+
+#: sections/functions/metaboxes/metabox-functions.php:217
+msgid "Settings"
+msgstr "Ajustes"
+
+#: sections/functions/metaboxes/metabox-functions.php:223
+msgid "Section Background"
+msgstr "Fondo de sección"
+
+#: sections/functions/metaboxes/metabox-functions.php:224
+msgid "Set as Section Background"
+msgstr "Establecer como fondo de sección"
+
+#: sections/functions/metaboxes/metabox-functions.php:228
+msgid "Insert into Section"
+msgstr "Insertar en una sección"
+
+#: sections/functions/metaboxes/metabox-functions.php:229
+#: sections/functions/metaboxes/views/sections-template.php:74
+msgid "Edit Section"
+msgstr "Editar sección"
+
+#: sections/functions/metaboxes/views/sections-template.php:35
+msgid "Click to edit"
+msgstr "Clic para editar"
+
+#: sections/functions/metaboxes/views/sections-template.php:37
+msgid "Click to edit content"
+msgstr "Clic para editar contenido"
+
+#: sections/functions/metaboxes/views/sections-template.php:38
+msgid "Click to edit settings"
+msgstr "Clic para editar ajustes"
+
+#: sections/functions/metaboxes/views/sections-template.php:39
+msgid "Click and drag to sort"
+msgstr "Clic y arrastrar para ordenar"
+
+#: sections/functions/metaboxes/views/sections-template.php:40
+msgid "Click to remove"
+msgstr "Clic para eliminar"
+
+#: sections/functions/metaboxes/views/sections-template.php:54
+msgid "Add Section"
+msgstr "Añadir sección"
+
+#: sections/functions/metaboxes/views/sections-template.php:55
+msgid "Remove Sections"
+msgstr "Eliminar secciones"
+
+#: sections/functions/metaboxes/views/sections-template.php:69
+msgid "Close"
+msgstr "Cerrado"
+
+#: sections/functions/metaboxes/views/sections-template.php:80
+msgid "Apply"
+msgstr "Aplicar"
+
+#: sections/functions/metaboxes/views/sections-template.php:81
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: sections/functions/metaboxes/views/sections-template.php:110
+msgid "Section Label"
+msgstr "Rótulo de sección"
+
+#: sections/functions/metaboxes/views/sections-template.php:126
+msgid "Add Media"
+msgstr "Añadir archivo multimedia"
+
+#: sections/functions/metaboxes/views/sections-template.php:131
+msgid "Visual"
+msgstr "Visual"
+
+#: sections/functions/metaboxes/views/sections-template.php:132
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr "Texto"
+
+#: sections/functions/metaboxes/views/sections-template.php:161
+msgid "Layout"
+msgstr "Diseño"
+
+#: sections/functions/metaboxes/views/sections-template.php:162
+msgid "Box Type"
+msgstr "Tipo de recuadro"
+
+#: sections/functions/metaboxes/views/sections-template.php:166
+#: sections/functions/metaboxes/views/sections-template.php:176
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: sections/functions/metaboxes/views/sections-template.php:167
+#: sections/functions/metaboxes/views/sections-template.php:175
+msgid "Contained"
+msgstr "Contenido"
+
+#: sections/functions/metaboxes/views/sections-template.php:171
+msgid "Inner Box Type"
+msgstr "Tipo de recuadro interior"
+
+#: sections/functions/metaboxes/views/sections-template.php:180
+msgid "Custom ID"
+msgstr "ID personalizada"
+
+#: sections/functions/metaboxes/views/sections-template.php:186
+msgid "Custom Classes"
+msgstr "Clases personalizadas"
+
+#: sections/functions/metaboxes/views/sections-template.php:192
+msgid "Top Padding"
+msgstr "Relleno superior"
+
+#: sections/functions/metaboxes/views/sections-template.php:201
+msgid "Bottom Padding"
+msgstr "Relleno inferior"
+
+#: sections/functions/metaboxes/views/sections-template.php:211
+msgid "Colors"
+msgstr "Colores"
+
+#: sections/functions/metaboxes/views/sections-template.php:212
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:217
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: sections/functions/metaboxes/views/sections-template.php:223
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: sections/functions/metaboxes/views/sections-template.php:229
+msgid "Link Color Hover"
+msgstr "Color de enlace al posar el puntero"
+
+#: sections/functions/metaboxes/views/sections-template.php:236
+msgid "Background"
+msgstr "Fondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:237
+#: sections/functions/metaboxes/views/sections-template.php:242
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: sections/functions/metaboxes/views/sections-template.php:242
+msgid "Upload"
+msgstr "Subir"
+
+#: sections/functions/metaboxes/views/sections-template.php:243
+msgid "Remove"
+msgstr "Eliminar"
+
+#: sections/functions/metaboxes/views/sections-template.php:247
+msgid "Parallax Effect"
+msgstr "Efecto Parallax"
+
+#: sections/functions/metaboxes/views/sections-template.php:250
+msgid "Disable"
+msgstr "Desactivar"
+
+#: sections/functions/metaboxes/views/sections-template.php:251
+msgid "Enable"
+msgstr "Activar"
+
+#: sections/functions/metaboxes/views/sections.php:8
+msgid "Javascript must be enabled to use Generate Sections"
+msgstr "JavaScript debe estar activado para usar Generate Sections"
+
+#: sections/functions/templates/template.php:107
+msgid "No sections added!"
+msgstr "¡No se han añadido secciones!"

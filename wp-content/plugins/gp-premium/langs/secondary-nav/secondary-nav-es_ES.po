@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2017-06-22 13:21-0300\n"
+"PO-Revision-Date: 2017-08-07 19:49-0300\n"
+"Language-Team: Caribdis.Net <info@caribdis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: secondary-nav\n"
+
+#: secondary-nav/functions/functions.php:20
+msgid "Secondary Menu"
+msgstr "Menú secundario"
+
+#: secondary-nav/functions/functions.php:137
+#: secondary-nav/functions/functions.php:146
+msgid "Secondary Navigation"
+msgstr "Navegación secundaria"
+
+#: secondary-nav/functions/functions.php:165
+msgid "Mobile Menu Label"
+msgstr "Etiqueta del menú móvil"
+
+#: secondary-nav/functions/functions.php:187
+msgid "Navigation Width"
+msgstr "Ancho de navegación"
+
+#: secondary-nav/functions/functions.php:190
+#: secondary-nav/functions/functions.php:216
+msgid "Full"
+msgstr "Completo"
+
+#: secondary-nav/functions/functions.php:191
+#: secondary-nav/functions/functions.php:217
+msgid "Contained"
+msgstr "Contenido"
+
+#: secondary-nav/functions/functions.php:213
+msgid "Inner Navigation Width"
+msgstr "Ancho de navegación interior"
+
+#: secondary-nav/functions/functions.php:239
+msgid "Navigation Location"
+msgstr "Ubicación de navegación"
+
+#: secondary-nav/functions/functions.php:242
+msgid "Below Header"
+msgstr "Debajo del encabezado"
+
+#: secondary-nav/functions/functions.php:243
+msgid "Above Header"
+msgstr "Arriba del encabezado"
+
+#: secondary-nav/functions/functions.php:244
+msgid "Float Right"
+msgstr "Flotar a la derecha"
+
+#: secondary-nav/functions/functions.php:245
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: secondary-nav/functions/functions.php:246
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: secondary-nav/functions/functions.php:247
+msgid "No Navigation"
+msgstr "Sin navegación"
+
+#: secondary-nav/functions/functions.php:269
+msgid "Navigation Alignment"
+msgstr "Alineación de navegación"
+
+#: secondary-nav/functions/functions.php:272
+msgid "Left"
+msgstr "Izquierda"
+
+#: secondary-nav/functions/functions.php:273
+msgid "Center"
+msgstr "Centrar"
+
+#: secondary-nav/functions/functions.php:274
+msgid "Right"
+msgstr "Derecha"
+
+#: secondary-nav/functions/functions.php:295
+msgid "Merge with Secondary Navigation"
+msgstr "Combinar con la navegación secundaria"
+
+#: secondary-nav/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Advertencia: Esto borrará los ajustes."
+
+#: secondary-nav/functions/ie.php:19
+msgid "Delete Secondary Nav Settings"
+msgstr "Eliminar ajustes de navegación secundaria"
+
+#: secondary-nav/functions/ie.php:55
+msgid "Export Secondary Nav Settings"
+msgstr "Exportar ajustes de navegación secundaria"

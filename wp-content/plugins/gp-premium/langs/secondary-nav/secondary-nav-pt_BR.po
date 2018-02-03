@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2017-06-20 00:43-0300\n"
+"PO-Revision-Date: 2017-06-20 00:46-0300\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: secondary-nav\n"
+
+#: secondary-nav/functions/functions.php:20
+msgid "Secondary Menu"
+msgstr "Menu Secundário"
+
+#: secondary-nav/functions/functions.php:137
+#: secondary-nav/functions/functions.php:146
+msgid "Secondary Navigation"
+msgstr "Menu Secundário"
+
+#: secondary-nav/functions/functions.php:165
+msgid "Mobile Menu Label"
+msgstr "Menu Mobile - Identificador"
+
+#: secondary-nav/functions/functions.php:187
+msgid "Navigation Width"
+msgstr "Largura do Menu"
+
+#: secondary-nav/functions/functions.php:190
+#: secondary-nav/functions/functions.php:216
+msgid "Full"
+msgstr "Total"
+
+#: secondary-nav/functions/functions.php:191
+#: secondary-nav/functions/functions.php:217
+msgid "Contained"
+msgstr "Fixa"
+
+#: secondary-nav/functions/functions.php:213
+msgid "Inner Navigation Width"
+msgstr "Largura Interna"
+
+#: secondary-nav/functions/functions.php:239
+msgid "Navigation Location"
+msgstr "Posição do Menu"
+
+#: secondary-nav/functions/functions.php:242
+msgid "Below Header"
+msgstr "Abaixo do Cabeçalho"
+
+#: secondary-nav/functions/functions.php:243
+msgid "Above Header"
+msgstr "Acima do Cabeçalho"
+
+#: secondary-nav/functions/functions.php:244
+msgid "Float Right"
+msgstr "Flutuar à Direita"
+
+#: secondary-nav/functions/functions.php:245
+msgid "Left Sidebar"
+msgstr "Sidebar Esquerdo"
+
+#: secondary-nav/functions/functions.php:246
+msgid "Right Sidebar"
+msgstr "Sidebar Direito"
+
+#: secondary-nav/functions/functions.php:247
+msgid "No Navigation"
+msgstr "Sem Menu"
+
+#: secondary-nav/functions/functions.php:269
+msgid "Navigation Alignment"
+msgstr "Alinhamento do Menu"
+
+#: secondary-nav/functions/functions.php:272
+msgid "Left"
+msgstr "Esquerda"
+
+#: secondary-nav/functions/functions.php:273
+msgid "Center"
+msgstr "Centralizado"
+
+#: secondary-nav/functions/functions.php:274
+msgid "Right"
+msgstr "Direita"
+
+#: secondary-nav/functions/functions.php:295
+msgid "Merge with Secondary Navigation"
+msgstr "Mesclar com Menu Secundário"
+
+#: secondary-nav/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Atenção: Isso irá excluir as configurações."
+
+#: secondary-nav/functions/ie.php:19
+msgid "Delete Secondary Nav Settings"
+msgstr "Menu Secundário - Excluir Configurações"
+
+#: secondary-nav/functions/ie.php:55
+msgid "Export Secondary Nav Settings"
+msgstr "Menu Secundário - Exportar Configurações"
+
+#~ msgid "Navigation"
+#~ msgstr "Menu"
+
+#~ msgid "Repeat"
+#~ msgstr "Repetir"
+
+#~ msgid "Repeat x"
+#~ msgstr "Repetir Horizontalmente"
+
+#~ msgid "Repeat y"
+#~ msgstr "Repetir Verticalmente"
+
+#~ msgid "No Repeat"
+#~ msgstr "Não Repetir"
+
+#~ msgid "Navigation Item Hover"
+#~ msgstr "Menu Item Hover"
+
+#~ msgid "Navigation Item Current"
+#~ msgstr "Menu Item Ativo"
+
+#~ msgid "Secondary Sub-Navigation"
+#~ msgstr "Submenu do Menu Secundário"
+
+#~ msgid "Sub-Navigation Item"
+#~ msgstr "Sub-Menu Item"
+
+#~ msgid "Sub-Navigation Item Hover"
+#~ msgstr "Sub-Menu Item Hover"
+
+#~ msgid "Sub-Navigation Item Current"
+#~ msgstr "Sub-Menu Item Ativo"
+
+#~ msgid "Background"
+#~ msgstr "Cor de Fundo"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Background Hover"
+#~ msgstr "Cor de Fundo Hover"
+
+#~ msgid "Text Hover"
+#~ msgstr "Texto Hover"
+
+#~ msgid "Background Current"
+#~ msgstr "Cor de Fundo Ativo"
+
+#~ msgid "Text Current"
+#~ msgstr "Texto Ativo"
+
+#~ msgid "Secondary Menu Items"
+#~ msgstr "Menu Secundário Itens"
+
+#~ msgid "Left/Right Spacing"
+#~ msgstr "Esquerda/Direita Espaçamento"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Sub-Menu Item Height"
+#~ msgstr "Sub-menu - Altura do Item"
+
+#~ msgid "The top and bottom spacing of sub-menu items."
+#~ msgstr "Espaçamento Superior e Inferior dos itens do sub-menu"
+
+#~ msgid "Secondary navigation"
+#~ msgstr "Menu Secundário"
+
+#~ msgid "Font weight"
+#~ msgstr "Peso da Fonte"
+
+#~ msgid "Text transform"
+#~ msgstr "Transformar Texto"
+
+#~ msgid "Font size"
+#~ msgstr "Tamanho da Fonte"
+
+#~ msgid "Navigation Layout"
+#~ msgstr "Layout do Menu"
+
+#~ msgid "Fluid / Full Width"
+#~ msgstr "Fluído / Largura Total"

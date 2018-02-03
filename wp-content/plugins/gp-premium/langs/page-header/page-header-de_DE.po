@@ -1,0 +1,1011 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2017-06-15 23:30-0700\n"
+"PO-Revision-Date: 2017-10-14 17:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: page-header/functions/functions.php:758 page-header/functions/metabox.php:37
+#: page-header/functions/metabox.php:53 page-header/functions/post-type.php:17
+#: page-header/functions/post-type.php:31
+#: page-header/functions/post-type.php:77
+#: page-header/functions/post-type.php:102
+msgid "Page Header"
+msgstr "Seitenkopf"
+
+#: page-header/functions/functions.php:782
+msgid "Page Header Location"
+msgstr "Seitenkopf-Position"
+
+#: page-header/functions/functions.php:785
+#: page-header/functions/functions.php:810
+msgid "Above Content Area"
+msgstr "Über dem Inhaltsbereich"
+
+#: page-header/functions/functions.php:786
+#: page-header/functions/functions.php:811
+msgid "Inside Content Area"
+msgstr "Im Inhaltsbereich"
+
+#: page-header/functions/functions.php:807
+msgid "Single Post Header Location"
+msgstr "Position des Beitragsbilds"
+
+#: page-header/functions/functions.php:812
+msgid "Below Post Title"
+msgstr "Unter dem Beitragstitel"
+
+#: page-header/functions/functions.php:813
+msgid "Hide"
+msgstr "Verbergen"
+
+#: page-header/functions/functions.php:1046
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s anzeigen"
+
+#: page-header/functions/global-locations.php:22
+#: page-header/functions/global-locations.php:23
+#: page-header/functions/global-locations.php:38
+msgid "Global Locations"
+msgstr "Globale Standorte"
+
+#: page-header/functions/global-locations.php:71
+msgid "Posts page (blog)"
+msgstr "Beiträge Seite (Blog)"
+
+#: page-header/functions/global-locations.php:80
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+#: page-header/functions/global-locations.php:89
+msgid "404 template"
+msgstr "404 Template"
+
+#: page-header/functions/global-locations.php:98
+msgid "Custom Post Types - Single Posts"
+msgstr "Custom Post Types - einzelne Beiträge"
+
+#: page-header/functions/global-locations.php:118
+msgid "Custom Post Types - Archives"
+msgstr "Custom Post Types - Archiv"
+
+#: page-header/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Warnung: Ihre Einstellungen werden gelöscht."
+
+#: page-header/functions/ie.php:19
+msgid "Delete Page Header Settings"
+msgstr "Seitenkopf Einstellungen löschen"
+
+#: page-header/functions/ie.php:56
+msgid "Export Page Header Settings"
+msgstr "Exportiere Seitenkopf-Einstellungen"
+
+#: page-header/functions/metabox.php:156
+msgid "Image"
+msgstr "Bild"
+
+#: page-header/functions/metabox.php:157
+msgid "Content"
+msgstr "Inhalt"
+
+#: page-header/functions/metabox.php:158
+msgid "Background Video"
+msgstr "Hintergrundvideo"
+
+#: page-header/functions/metabox.php:160
+msgid "Logo"
+msgstr "Logo"
+
+#: page-header/functions/metabox.php:162
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: page-header/functions/metabox.php:166
+msgid "Add to excerpt"
+msgstr "Zum Blog Auszug hinzufügen"
+
+#: page-header/functions/metabox.php:182
+msgid ""
+"Currently using your <a href=\"#\" class=\"generate-featured-image"
+"\">featured image</a>."
+msgstr ""
+"Derzeit nutzt Du <a href=\"#\" class=\"generate-featured-image"
+"\">Beitragsbild</a>."
+
+#: page-header/functions/metabox.php:193
+msgid "Page Header Image"
+msgstr "Kopfzeilen Bild"
+
+#: page-header/functions/metabox.php:193
+msgid "Insert Image"
+msgstr "Bild einfügen"
+
+#: page-header/functions/metabox.php:194
+msgid "Choose Image"
+msgstr "Bild wählen"
+
+#: page-header/functions/metabox.php:197
+msgid "Remove Image"
+msgstr "Bild entfernen"
+
+#: page-header/functions/metabox.php:202
+msgid "Or you can <a href=\"#\">set the featured image</a>."
+msgstr "Oder Sie können <a href=\"#\">das Beitragsbild setzen</a>."
+
+#: page-header/functions/metabox.php:207
+msgid "Image link"
+msgstr "Bild-Link"
+
+#: page-header/functions/metabox.php:212
+msgid "Resize image"
+msgstr "Bildgröße ändern"
+
+#: page-header/functions/metabox.php:214
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: page-header/functions/metabox.php:215
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: page-header/functions/metabox.php:221
+msgid "Image width"
+msgstr "Bildbreite"
+
+#: page-header/functions/metabox.php:226
+msgid "Image height"
+msgstr "Bildhöhe"
+
+#: page-header/functions/metabox.php:229
+msgid "Use \"0\" or leave blank for proportional resizing."
+msgstr "Nutze \"0\" oder leer für eine proportionale Skalierung"
+
+#: page-header/functions/metabox.php:238
+msgid "HTML and shortcodes allowed."
+msgstr "HTML und Shortcodes erlaubt."
+
+#: page-header/functions/metabox.php:243
+msgid "Automatically add paragraphs"
+msgstr "Absätze automatisch hinzufügen"
+
+#: page-header/functions/metabox.php:248
+msgid "Add padding"
+msgstr "Abstand hinzufügen"
+
+#: page-header/functions/metabox.php:253
+msgid "Add background image"
+msgstr "Hintergrundbild hinzufügen"
+
+#: page-header/functions/metabox.php:258
+msgid "Use background color as overlay"
+msgstr "Hintergrundfarbe als Overlay verwenden"
+
+#: page-header/functions/metabox.php:263
+msgid "Parallax effect"
+msgstr "Parallax Effekt"
+
+#: page-header/functions/metabox.php:268
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: page-header/functions/metabox.php:273
+msgid "Vertical center content"
+msgstr "Inhalt vertikal zentrieren"
+
+#: page-header/functions/metabox.php:280
+msgid "Container type"
+msgstr "Container-Typ"
+
+#: page-header/functions/metabox.php:282
+msgid "Contained"
+msgstr "Enthalten"
+
+#: page-header/functions/metabox.php:283
+msgid "Full width"
+msgstr "Volle Breite"
+
+#: page-header/functions/metabox.php:288
+msgid "Text alignment"
+msgstr "Textausrichtung"
+
+#: page-header/functions/metabox.php:290
+msgid "Left"
+msgstr "Links"
+
+#: page-header/functions/metabox.php:291
+msgid "Center"
+msgstr "Mittig"
+
+#: page-header/functions/metabox.php:292
+msgid "Right"
+msgstr "Rechts"
+
+#: page-header/functions/metabox.php:297
+msgid "Top/Bottom padding"
+msgstr "Innenabstand oben & unten"
+
+#: page-header/functions/metabox.php:308
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: page-header/functions/metabox.php:313
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: page-header/functions/metabox.php:318
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: page-header/functions/metabox.php:323
+msgid "Link color hover"
+msgstr "Linkfarbe bei Mauskontakt"
+
+#: page-header/functions/metabox.php:333
+msgid "MP4 file"
+msgstr "MP4 Datei"
+
+#: page-header/functions/metabox.php:335 page-header/functions/metabox.php:343
+#: page-header/functions/metabox.php:351
+msgid "Page Header Video"
+msgstr "Seitenkopf Video"
+
+#: page-header/functions/metabox.php:335 page-header/functions/metabox.php:343
+#: page-header/functions/metabox.php:351
+msgid "Insert Video"
+msgstr "Video einfügen"
+
+#: page-header/functions/metabox.php:336 page-header/functions/metabox.php:344
+#: page-header/functions/metabox.php:352
+msgid "Choose Video"
+msgstr "Video auswählen"
+
+#: page-header/functions/metabox.php:341
+msgid "OGV file"
+msgstr "OGV Datei"
+
+#: page-header/functions/metabox.php:349
+msgid "WEBM file"
+msgstr "WEBM Datei"
+
+#: page-header/functions/metabox.php:357
+msgid "Overlay color"
+msgstr "Deckfarbe"
+
+#: page-header/functions/metabox.php:373
+msgid "Overwrite your site-wide logo/header on this page."
+msgstr "Überschreibe das  Webseiten Logo / Kopfbereich auf dieser Seite."
+
+#: page-header/functions/metabox.php:383
+msgid "Header / Logo"
+msgstr "Kopfbereich / Logo"
+
+#: page-header/functions/metabox.php:383 page-header/functions/metabox.php:422
+msgid "Insert Logo"
+msgstr "Logo einfügen"
+
+#: page-header/functions/metabox.php:384 page-header/functions/metabox.php:423
+msgid "Choose Logo"
+msgstr "Logo wählen"
+
+#: page-header/functions/metabox.php:395 page-header/functions/metabox.php:435
+msgid "Remove Logo"
+msgstr "Logo entfernen"
+
+#: page-header/functions/metabox.php:412
+msgid "Overwrite your navigation logo on this page."
+msgstr "Überschreiben Sie Ihr Navigations-Logo auf dieser Seite."
+
+#: page-header/functions/metabox.php:422
+msgid "Navigation Logo"
+msgstr "Navigations-Logo"
+
+#: page-header/functions/metabox.php:445
+msgid "Merge with site header"
+msgstr "Mit Kopf der Webseite zusammenführen"
+
+#: page-header/functions/metabox.php:451
+msgid "Place content behind header (sliders etc..)"
+msgstr "Platziere Inhalte hinter dem Seitenkopf (Sliders etc..)"
+
+#: page-header/functions/metabox.php:456
+msgid "Site title"
+msgstr "Titel der Webseite"
+
+#: page-header/functions/metabox.php:461
+msgid "Site tagline"
+msgstr "Webseiten-Slogan (Untertitel)"
+
+#: page-header/functions/metabox.php:466
+msgid "Transparent navigation"
+msgstr "Transparente Navigation"
+
+#: page-header/functions/metabox.php:472
+msgid "Navigation text"
+msgstr "Navigationstext"
+
+#: page-header/functions/metabox.php:477
+msgid "Navigation background hover"
+msgstr "Hintergrund bei Mauskontakt"
+
+#: page-header/functions/metabox.php:482
+msgid "Navigation text hover"
+msgstr "Text bei Mauskontakt"
+
+#: page-header/functions/metabox.php:487
+msgid "Navigation background current"
+msgstr "Hintergrund aktuelles Navigationselement"
+
+#: page-header/functions/metabox.php:492
+msgid "Navigation text current"
+msgstr "Aktueller Navigationstext"
+
+#: page-header/functions/post-type.php:14
+msgctxt "Post Type General Name"
+msgid "Page Headers"
+msgstr "Seitenkopf"
+
+#: page-header/functions/post-type.php:15
+msgctxt "Post Type Singular Name"
+msgid "Page Header"
+msgstr "Seitenkopf"
+
+#: page-header/functions/post-type.php:16
+msgid "Page Headers"
+msgstr "Seitenköpfe"
+
+#: page-header/functions/post-type.php:18
+msgid "Page Header Archives"
+msgstr "Seitenkopf Archive"
+
+#: page-header/functions/post-type.php:19
+msgid "Parent Page Header:"
+msgstr "Übergeordneter Seitenkopf:"
+
+#: page-header/functions/post-type.php:20
+msgid "All Page Headers"
+msgstr "Alle Seitenköpfe"
+
+#: page-header/functions/post-type.php:21
+msgid "Add New Page Header"
+msgstr "Seitenkopf erstellen"
+
+#: page-header/functions/post-type.php:22
+msgid "New Page Header"
+msgstr "Seitenkopf erstellen"
+
+#: page-header/functions/post-type.php:23
+msgid "Edit Page Header"
+msgstr "Seitenkopf bearbeiten"
+
+#: page-header/functions/post-type.php:24
+msgid "Update Page Header"
+msgstr "Seitenkopf aktualisieren"
+
+#: page-header/functions/post-type.php:25
+msgid "View Page Header"
+msgstr "Seitenkopf zeigen"
+
+#: page-header/functions/post-type.php:26
+msgid "Search Page Header"
+msgstr "Seitenkopf suchen"
+
+#: page-header/functions/post-type.php:27
+msgid "Insert into page header"
+msgstr "In Seitenkopf einfügen"
+
+#: page-header/functions/post-type.php:28
+msgid "Uploaded to this page header"
+msgstr "Zu diesem Seitennkopf hochgeladen"
+
+#~ msgid "Apply image sizes"
+#~ msgstr "Übernehme Bildgrößen"
+
+#~ msgid "Blog Page Header"
+#~ msgstr "Blog-Seitenkopf"
+
+#~ msgid "Upload an image to be used as your page header."
+#~ msgstr "Hochladen eines Bildes um es als Seitenkopf zu verwenden."
+
+#~ msgid "Make your page header image clickable by adding a URL. (optional)"
+#~ msgstr "Um das Kopfbild zu verlinken, fügen Sie eine URL hinzu (optional)."
+
+#~ msgid "Turn hard cropping or of off."
+#~ msgstr "Beschneiden der Bilder an- oder ausschalten."
+
+#~ msgid "Choose your image width in pixels. (integer only, default is 1200)"
+#~ msgstr ""
+#~ "Wählen Sie die Breite des Bildes in Pixel. (ganze Zahl, Standard ist 1200)"
+
+#~ msgid ""
+#~ "Choose your image height in pixels. Use \"0\" or leave blank for "
+#~ "proportional resizing. (integer only, default is 0) "
+#~ msgstr ""
+#~ "Wähle die Bildgröße in Pixeln. Nutze \"0\" oder leer für eine "
+#~ "proportionale Skalierung. (Nur ganze Zahlen, Standard ist 0)"
+
+#~ msgid "Video Background URL (MP4 only)"
+#~ msgstr "Video-Hintergrund (mp4)"
+
+#~ msgid "Video Background URL (OGV only)"
+#~ msgstr "Video-Hintergrund (Ogv)"
+
+#~ msgid "Video Background URL (WEBM only)"
+#~ msgstr "Video-Hintergrund (Webm)"
+
+#~ msgid "Overlay Color"
+#~ msgstr "Deckfarbe"
+
+#~ msgid "Page Header Content"
+#~ msgstr "Inhalt des Kopfbereichs"
+
+#~ msgid "Add your content to the page header. HTML and shortcodes allowed."
+#~ msgstr ""
+#~ "Hinzufügen von Inhalten zu Ihrem Seitenkopf. HTML und Shortcodes sind "
+#~ "erlaubt."
+
+#~ msgid "Add Paragraphs"
+#~ msgstr "Absätze automatisch hinzufügen"
+
+#~ msgid "Wrap your text in paragraph tags automatically."
+#~ msgstr "Umschließen Sie Ihren Text automatisch mit Absatz-Tags."
+
+#~ msgid "Add Padding"
+#~ msgstr "Abstand hinzufügen"
+
+#~ msgid "Add padding around your content."
+#~ msgstr "Abstand um den Inhalt hinzufügen."
+
+#~ msgid "Image Background"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid ""
+#~ "Use the image uploaded above as a background image for your content. "
+#~ "(requires image uploaded above)"
+#~ msgstr ""
+#~ "Verwende das Hintergrundbild als Bild für den Inhalt. (erfordert, dass "
+#~ "ein Bild oben hochgeladen wurde)"
+
+#~ msgid "Parallax Background"
+#~ msgstr "Parallaxer Hintergrund"
+
+#~ msgid ""
+#~ "Add a cool parallax effect to your background image. (requires the image "
+#~ "background option to be checked)"
+#~ msgstr ""
+#~ "Fügen Sie einen coolen Parallax-Effekt zu Ihrem Hintergrundbild hinzu. "
+#~ "(erfordert die aktivierte Option Hintergrundbild)"
+
+#~ msgid "Full Screen"
+#~ msgstr "Vollbild"
+
+#~ msgid "Make your page header content area full screen."
+#~ msgstr "Setze den Inhaltsbereich des Seitenkopfs als Vollbild."
+
+#~ msgid "Vertical Center"
+#~ msgstr "Vertikale Mitte"
+
+#~ msgid "Center your page header content vertically."
+#~ msgstr "Zentriere Inhalt des Seitenkopfs vertikal."
+
+#~ msgid "Container Type"
+#~ msgstr "Container-Typ"
+
+#~ msgid "Choose whether the page header is contained or fluid."
+#~ msgstr "Wählen Sie, ob der Seitenkopf enthalten ist oder flexibel."
+
+#~ msgid "Text Alignment"
+#~ msgstr "Textausrichtung"
+
+#~ msgid "Choose the horizontal alignment of your content."
+#~ msgstr "Wählen Sie die horizontale Ausrichtung des Inhalts."
+
+#~ msgid "Top/Bottom Padding"
+#~ msgstr "Oberer/Unterer Abstand"
+
+#~ msgid "This will add space above and below your content. (integer only) "
+#~ msgstr ""
+#~ "Raum oberhalb und unterhalb des Inhaltsbereichs hinzufügen. (nur ganze "
+#~ "Zahlen)"
+
+#~ msgid "Padding Unit"
+#~ msgstr "Abstands Einheit"
+
+#~ msgid "Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Text Color"
+#~ msgstr "Textfarbe"
+
+#~ msgid "Link Color"
+#~ msgstr "Linkfarbe"
+
+#~ msgid "Link Color Hover"
+#~ msgstr "Linkfarbe bei Mauskontakt"
+
+#~ msgid "Page Header Advanced"
+#~ msgstr "Erweiterte Einstellungen für den Seitenkopf"
+
+#~ msgid "Page Header Logo"
+#~ msgstr "Kopfbereich Logo"
+
+#~ msgid "Replace your logo on the blog."
+#~ msgstr "Ersetzen Dein Logo auf dem Blog."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. %2$sView version %3$s details"
+#~ "%4$s."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$s verfügbar. %2$s Zeige Details der "
+#~ "Version %3$s details%4$s."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. %2$sView version %3$s details"
+#~ "%4$s or %5$supdate now%6$s."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$s verfügbar.  %2$sZeige Version %3$s "
+#~ "details%4$s oder %5$saktualisiere jetzt%6$s."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "License deactivated."
+#~ msgstr "Lizenz deaktiviert."
+
+#~ msgid "License activated."
+#~ msgstr "Lizenz aktiviert."
+
+#~ msgid "Updates %s"
+#~ msgstr "Updates %s"
+
+#~ msgid "Help"
+#~ msgstr "Hilfe"
+
+#~ msgid "License Key"
+#~ msgstr "Lizenzschlüssel"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Your license key expired on %s."
+#~ msgstr "Lizenz am %s abgelaufen."
+
+#~ msgid "Your license key has been disabled."
+#~ msgstr "Ihr Lizenzschlüssel wurde deaktiviert."
+
+#~ msgid "Invalid license."
+#~ msgstr "Ungültiger Lizenzschlüssel"
+
+#~ msgid "Your license is not active for this URL."
+#~ msgstr "Die Lizenz ist für diese URL nicht aktiv."
+
+#~ msgid "This appears to be an invalid license key for %s."
+#~ msgstr "Dies scheint ein ungültiger Lizenz-Schlüssel für %s zu sein."
+
+#~ msgid "Your license key has reached its activation limit."
+#~ msgstr "Ihr Lizenzschlüssel hat seine Aktivierungslimit erreicht."
+
+#~ msgid "An error occurred, please try again."
+#~ msgstr "Ein Fehler ist aufgetreten, versuchen Sie es erneut."
+
+#~ msgid "Page Header Link"
+#~ msgstr "Seitenkopf-Link"
+
+#~ msgid "Hard Crop"
+#~ msgstr "Zuschneiden"
+
+#~ msgid "Image Width"
+#~ msgstr "Bildbreite"
+
+#~ msgid "Image Height"
+#~ msgstr "Bildhöhe"
+
+#~ msgid "Fluid"
+#~ msgstr "Fluid"
+
+#~ msgid ""
+#~ "Choose your content padding in pixels. This will add space above and "
+#~ "below your content. (integer only) "
+#~ msgstr ""
+#~ "Wählen Sie Ihren Abstand im Inhaltsbereich in Pixel. Dadurch wird Raum "
+#~ "oberhalb und unterhalb Ihrer Inhalte hinzugefügt. (nur ganze Zahlen)"
+
+#~ msgid "Add Image"
+#~ msgstr "Bild hinzufügen"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Neue Version von %1$s verfügbar. <a target=\\“_blank\\“ class=\\“thickbox"
+#~ "\\“ href=\\“%2$s\\“>Details zu Version %3$s anzeigen</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Neue Version von %1$s verfügbar. <a target=\"_blank\" class=\"thickbox\" "
+#~ "href=\"%2$s\">Details zu Version %3$s anzeigen</a> oder <a href=\"%4$s"
+#~ "\">Jetzt updaten</a>."
+
+#~ msgid "License failed."
+#~ msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#~ msgid "Add a page header to your blog."
+#~ msgstr "Fügen Sie einen Seitenkopf zu Ihrem Blog hinzu."
+
+#~ msgid ""
+#~ "This will only show up on the page you have set as your \"Posts Page\". "
+#~ "To add a page header to specific pages, use the metabox included while "
+#~ "adding your content."
+#~ msgstr ""
+#~ "Dies wird nur auf der Seite angezeigt, die Sie als Ihre \"Beiträge-Seite"
+#~ "\" eingestellt haben. Um einen Seitenkopf für bestimmte Seiten "
+#~ "hinzuzufügen, verwenden Sie die Metabox."
+
+#~ msgid "Publish"
+#~ msgstr "Veröffentlichen"
+
+#~ msgid "Save Settings"
+#~ msgstr "Einstellungen speichern"
+
+#~ msgid ""
+#~ "Use these options to add a page header to your Blog. Add page headers to "
+#~ "your pages by using the metabox while editing them."
+#~ msgstr ""
+#~ "Verwenden Sie diese Optionen, um einen Seitenkopf zu Ihrem Blog "
+#~ "hinzufügen. Fügen Sie Seitenköpfe zu Ihren Seiten, mithilfe der Metabox "
+#~ "beim Bearbeiten, hinzu."
+
+#~ msgid "Image Options"
+#~ msgstr "Bildoptionen"
+
+#~ msgid ""
+#~ "Choose your image height in pixels. Use \"0\" or leave blank to calculate "
+#~ "height based on width. (integer only, default is 0) "
+#~ msgstr ""
+#~ "Wählen Sie die Höhe des Bildes in Pixel. Verwenden Sie \"0\" oder lassen "
+#~ "Sie das Feld frei, um die Höhe zu berechnen. (Integer, Standard ist 0)"
+
+#~ msgid "Content Options"
+#~ msgstr "Inhaltsoptionen"
+
+#~ msgid "Link Hover Color"
+#~ msgstr "Linkfarbe bei Mouse over"
+
+#~ msgid "Metabox configuration is required to have an ID parameter"
+#~ msgstr ""
+#~ "Metabox Konfiguration ist erforderlich, um eine ID-Parameter zu erhalten"
+
+#~ msgid "Click to toggle"
+#~ msgstr "Klicken Sie zum Umschalten"
+
+#~ msgid "Please Try Again"
+#~ msgstr "Bitte versuchen Sie es erneut."
+
+#~ msgid "Remove Embed"
+#~ msgstr "Einbindungscode entfernen"
+
+#~ msgid "No oEmbed Results Found for %s. View more info at"
+#~ msgstr "Keine oEmbed gefunden für%s. Weitere Infos unter"
+
+#~ msgid "Add Group"
+#~ msgstr "Gruppe hinzufügen"
+
+#~ msgid "Remove Group"
+#~ msgstr "Gruppe entfernen"
+
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgid "Add Row"
+#~ msgstr "Zeile hinzufügen"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "No terms"
+#~ msgstr "Keine Begriffe"
+
+#~ msgid "Add or Upload Files"
+#~ msgstr "Hinzufügen oder Dateien hochladen"
+
+#~ msgid "Add or Upload File"
+#~ msgstr "Hinzufügen oder Dateien hochladen"
+
+#~ msgid "File:"
+#~ msgstr "Datei:"
+
+#~ msgid "Download"
+#~ msgstr "Herunterladen"
+
+#~ msgid "Clear"
+#~ msgstr "Entfernen"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Select Color"
+#~ msgstr "Farbe auswählen"
+
+#~ msgid "Current Color"
+#~ msgstr "Aktuelle Farbe"
+
+#~ msgid "mm/dd/yy"
+#~ msgstr "mm/dd/yy"
+
+#~ msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+#~ msgstr "Sonntag, Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag"
+
+#~ msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+#~ msgstr "So, Mo, Di, Mi, Do, Fr, Sa"
+
+#~ msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+#~ msgstr "Son, Mon, Die, Mit, Don, Fre, Sam"
+
+#~ msgid ""
+#~ "January, February, March, April, May, June, July, August, September, "
+#~ "October, November, December"
+#~ msgstr ""
+#~ "Januar, Februar, März, April, Mai, Juni, Juli, August, September, "
+#~ "Oktober, November, Dezember"
+
+#~ msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+#~ msgstr "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
+
+#~ msgid "Next"
+#~ msgstr "Vorwärts"
+
+#~ msgid "Prev"
+#~ msgstr "Vorheriger"
+
+#~ msgid "Today"
+#~ msgstr "Heute"
+
+#~ msgid "Done"
+#~ msgstr "Fertig"
+
+#~ msgid "Choose Time"
+#~ msgstr "Zeit wählen"
+
+#~ msgid "Time"
+#~ msgstr "Zeit"
+
+#~ msgid "Hour"
+#~ msgstr "Stunde"
+
+#~ msgid "Minute"
+#~ msgstr "Minute"
+
+#~ msgid "Second"
+#~ msgstr "Sekunde"
+
+#~ msgid "Now"
+#~ msgstr "Jetzt"
+
+#~ msgid "hh:mm TT"
+#~ msgstr "hh: mm TT"
+
+#~ msgid "Use this file"
+#~ msgstr "Diese Datei verwenden"
+
+#~ msgid "Select / Deselect All"
+#~ msgstr "Alles / Nichts auswählen"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "Use \"0\" or leave blank to calculate height based on width."
+#~ msgstr ""
+#~ "Verwenden Sie \"0\" oder lassen Sie das Feld frei, um die Höhe basierend "
+#~ "auf der Breite zu berechnen."
+
+#~ msgid "Use image (from image tab) as a background image?"
+#~ msgstr "Verwende Bild (von Registerkarte Bild) als Hintergrundbild?"
+
+#~ msgid "Add parallax effect to background image?"
+#~ msgstr "Parallax Effekt hinzufügen?"
+
+#~ msgid "Make background image full screen?"
+#~ msgstr "Hintergrundbild als Vollbild anzeigen?"
+
+#~ msgid "Center your content vertically?"
+#~ msgstr "Ihre Inhalte vertikal zentrieren?"
+
+#~ msgid "Add to blog excerpt (if no Featured Image is set)"
+#~ msgstr "Zum Blog Auszug hinzufügen (wenn kein Beitragsbild gesetzt ist)"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail "
+#~ "mit der Du bezahlt hast."
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "E-Mail deaktivieren"
+
+#~ msgid "Activate Email"
+#~ msgstr "E-Mail aktivieren"
+
+#~ msgid "Save Email"
+#~ msgstr "E-Mail speichern"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Alle Updates aktivieren"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Updates deaktivieren"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Updates aktivieren"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+#~ "Aufzeichnungen vorhanden."
+
+#~ msgid "Email activated."
+#~ msgstr "E-Mail aktiviert."
+
+#~ msgid "Email deactivated."
+#~ msgstr "E-Mail deaktiviert."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Lizenzen aktiviert."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivierung ist fehlgeschlagen."
+
+#~ msgid "Hard Crop Position"
+#~ msgstr "Position des zugeschnittenen Bildes"
+
+#~ msgid "Choose where to crop the image."
+#~ msgstr "Wählen Sie, wo Sie das Bild zuschneiden."
+
+#~ msgid "Top Left"
+#~ msgstr "Oben links"
+
+#~ msgid "Top Right"
+#~ msgstr "Oben rechts"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Unten links"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Unten rechts"
+
+#~ msgid "Image Crop Position"
+#~ msgstr "Position des zugeschnittenen Bildes"
+
+#~ msgid "Top left"
+#~ msgstr "Oben links"
+
+#~ msgid "Top right"
+#~ msgstr "Oben rechts"
+
+#~ msgid "Bottom left"
+#~ msgstr "Unten links"
+
+#~ msgid "Bottom right"
+#~ msgstr "Unten rechts"
+
+#~ msgid ""
+#~ "Note: You've chosen content to show as your page header. Remove the "
+#~ "content and save to use the image below."
+#~ msgstr ""
+#~ "Hinweis: Sie haben Inhalte als Ihre Kopfzeile anzeigen ausgewählt. "
+#~ "Entfernen Sie den Inhalt und speichern Sie, um das Bild unten zu "
+#~ "verwenden."
+
+#~ msgid "Background type"
+#~ msgstr "Hintergrundtyp"
+
+#~ msgid "Add parallax effect?"
+#~ msgstr "Parallax Effekt hinzufügen?"
+
+#~ msgid "verified"
+#~ msgstr "bestätigt"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "unverified"
+#~ msgstr "Ungeprüft"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Lizenz deaktivieren"
+
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "Activate License"
+#~ msgstr "Lizenz aktivieren"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Generate Page Header License Key"
+#~ msgstr "Seitenkopf-Lizenz-Schlüssel generieren"
+
+#~ msgid "No image URL has been entered."
+#~ msgstr "Es wurde keine Bild-URL eingegeben."
+
+#~ msgid "At least one of width or height must be a number."
+#~ msgstr "Die Breite oder Höhe muss eine Zahl sein."
+
+#~ msgid "Failed to get $file_path information using \"@getimagesize\"."
+#~ msgstr ""
+#~ "Fehler beim Abrufen der $file_path Informationen mithilfe von "
+#~ "\"@getimagesize\"."
+
+#~ msgid "Resize path invalid (GIF)"
+#~ msgstr "Pfad zur Größenänderung ist falsch (GIF)"
+
+#~ msgid "Resize path invalid (PNG)."
+#~ msgstr "Pfad zur Größenänderung ist falsch (PNG)"
+
+#~ msgid "Resize path invalid (JPG)."
+#~ msgstr "Pfad zur Größenänderung ist falsch (JPG)"
+
+#~ msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+#~ msgstr ""
+#~ "Fehler beim Abrufen der $dest_file_name (geänderte Bildgröße) Info über "
+#~ "@getimagesize"
+
+#~ msgid ""
+#~ "Activate your addons by entering the email you purchased them with below. "
+#~ "Save and verify, then your purchased addons will appear below for "
+#~ "activation."
+#~ msgstr ""
+#~ "Aktivieren Sie Ihre Addons durch Eingabe der e-Mail, die Sie beim Kauf "
+#~ "genutzt haben. Speichern Sie zur Überprüfung und anschließend stehen die "
+#~ "gekauften Addons zur Verfügung."
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Refresh"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Verify Email"
+#~ msgstr "E-Mail bestätigen"
+
+#~ msgid "Activate All"
+#~ msgstr "Alle aktivieren"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Once Every 3 Days"
+#~ msgstr "Einmal alle 3 Tage"

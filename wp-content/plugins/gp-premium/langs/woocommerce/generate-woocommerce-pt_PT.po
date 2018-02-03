@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate WooCommerce\n"
+"POT-Creation-Date: 2017-05-15 01:27+0100\n"
+"PO-Revision-Date: 2017-05-15 01:28+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../../woocommerce\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/customizer/customizer.php:42
+#: functions/customizer/customizer.php:708
+#: functions/customizer/customizer.php:718
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: functions/customizer/customizer.php:56
+msgid "General"
+msgstr "Geral"
+
+#: functions/customizer/customizer.php:75
+msgid "Display cart in menu"
+msgstr "Mostrar carrinho no menu"
+
+#: functions/customizer/customizer.php:94
+msgid "Display breadcrumbs"
+msgstr "Mostrar breadcrumbs"
+
+#: functions/customizer/customizer.php:107
+msgid "Shop"
+msgstr "Loja"
+
+#: functions/customizer/customizer.php:126
+#: functions/customizer/customizer.php:546
+msgid "Sidebar Layout"
+msgstr "Layout das barras laterais"
+
+#: functions/customizer/customizer.php:129
+#: functions/customizer/customizer.php:550
+msgid "Sidebar / Content"
+msgstr "Barra / Conteúdo"
+
+#: functions/customizer/customizer.php:130
+#: functions/customizer/customizer.php:551
+msgid "Content / Sidebar"
+msgstr "Conteúdo / Barra"
+
+#: functions/customizer/customizer.php:131
+#: functions/customizer/customizer.php:552
+msgid "Content (no sidebars)"
+msgstr "Só conteúdo (sem barra)"
+
+#: functions/customizer/customizer.php:132
+#: functions/customizer/customizer.php:553
+msgid "Sidebar / Content / Sidebar"
+msgstr "Barra / Conteúdo / Barra"
+
+#: functions/customizer/customizer.php:133
+#: functions/customizer/customizer.php:554
+msgid "Sidebar / Sidebar / Content"
+msgstr "Barra / Barra / Conteúdo"
+
+#: functions/customizer/customizer.php:134
+#: functions/customizer/customizer.php:555
+msgid "Content / Sidebar / Sidebar"
+msgstr "Conteúdo / Barra / Barra"
+
+#: functions/customizer/customizer.php:153
+#: functions/customizer/customizer.php:262
+msgid "Products Per Page"
+msgstr "Produtos por página"
+
+#: functions/customizer/customizer.php:191
+msgid "Product Columns"
+msgstr "Colunas de produtos"
+
+#: functions/customizer/customizer.php:238
+msgid "Image Alignment"
+msgstr "Alinhamento da imagem"
+
+#: functions/customizer/customizer.php:241
+#: functions/customizer/customizer.php:284
+msgid "Left"
+msgstr "Esquerda"
+
+#: functions/customizer/customizer.php:242
+#: functions/customizer/customizer.php:285
+msgid "Center"
+msgstr "Centro"
+
+#: functions/customizer/customizer.php:243
+#: functions/customizer/customizer.php:286
+msgid "Right"
+msgstr "Direita"
+
+#: functions/customizer/customizer.php:281
+msgid "Text Alignment"
+msgstr "Alinhamento do texto"
+
+#: functions/customizer/customizer.php:305
+msgid "Display page title"
+msgstr "Mostrar título da página"
+
+#: functions/customizer/customizer.php:324
+msgid "Display product results count"
+msgstr "Mostrar contagem de produtos"
+
+#: functions/customizer/customizer.php:343
+msgid "Display product sorting"
+msgstr "Mostrar ordenação de produtos"
+
+#: functions/customizer/customizer.php:362
+msgid "Display product image"
+msgstr "Mostrar imagens de produtos"
+
+#: functions/customizer/customizer.php:381
+msgid "Display secondary image on hover"
+msgstr "Mostrar imagem secundária ao passar com o rato"
+
+#: functions/customizer/customizer.php:400
+msgid "Display product title"
+msgstr "Mostrar título do produto"
+
+#: functions/customizer/customizer.php:419
+msgid "Display sale flash"
+msgstr "Mostrar etiqueta de promoção"
+
+#: functions/customizer/customizer.php:438
+msgid "Sale flash over image"
+msgstr "Imagem de sobreposição de promoção"
+
+#: functions/customizer/customizer.php:457
+msgid "Display rating"
+msgstr "Mostrar classificação"
+
+#: functions/customizer/customizer.php:476
+msgid "Display price"
+msgstr "Mostrar preço"
+
+#: functions/customizer/customizer.php:495
+msgid "Display add to cart button"
+msgstr "Mostrar botão para adicionar ao carrinho"
+
+#: functions/customizer/customizer.php:514
+#: functions/customizer/customizer.php:699
+msgid "Display short description"
+msgstr "Mostrar descrição curta"
+
+#: functions/customizer/customizer.php:527
+msgid "Single Product"
+msgstr "Produto"
+
+#: functions/customizer/customizer.php:549
+msgid "inherit"
+msgstr "Herdar"
+
+#: functions/customizer/customizer.php:574
+msgid "Display product tabs"
+msgstr "Mostrar separadores do produto"
+
+#: functions/customizer/customizer.php:593
+msgid "Display related products"
+msgstr "Mostrar produtos relacionados"
+
+#: functions/customizer/customizer.php:612
+msgid "Display upsell products"
+msgstr "Mostrar produtos aumenta vendas"
+
+#: functions/customizer/customizer.php:641
+msgid "Related/Upsell Columns"
+msgstr "Colunas de produtos relacionados"
+
+#: functions/customizer/customizer.php:680
+msgid "Display product meta data"
+msgstr "Mostrar metadados dos produtos"
+
+#: functions/customizer/customizer.php:731
+msgid "Primary button colors"
+msgstr "Cores dos botões principais"
+
+#: functions/customizer/customizer.php:732
+msgid "Primary button colors can be set <a href=\"#\">here</a>."
+msgstr ""
+"As cores dos botões principais podem ser definidas <a href=\"#\">aqui</a>."
+
+#: functions/customizer/customizer.php:746
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: functions/customizer/customizer.php:765
+msgid "Distraction-free mode"
+msgstr "Modo sem distracções"
+
+#: functions/customizer/customizer.php:766
+msgid ""
+"Remove unnecessary distractions like sidebars, footer widgets and sticky "
+"menus."
+msgstr ""
+"Remove distracções desnecessárias como barras laterais, widgets de rodapé e "
+"menus fixos."
+
+#: functions/functions.php:310 functions/functions.php:324
+msgid "View your shopping cart"
+msgstr "Ver o seu carrinho de compras"
+
+#: functions/functions.php:541
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Classificado com %s de 5"
+
+#: functions/functions.php:543
+msgid "Not yet rated"
+msgstr "Sem classificação"
+
+#: functions/functions.php:548
+msgid "out of 5"
+msgstr "de 5"
+
+#: functions/import-export.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Aviso: Isto irá eliminar as suas configurações."
+
+#: functions/import-export.php:19
+msgid "Delete WooCommerce Settings"
+msgstr "Eliminar configurações de WooCommerce"
+
+#: functions/import-export.php:56
+msgid "Export WooCommerce Settings"
+msgstr "Exportar configurações de WooCommerce"
+
+#~ msgid "Display product description"
+#~ msgstr "Mostrar descrição do produto"
+
+#~ msgid "Generate WooCommerce"
+#~ msgstr "Generate WooCommerce"
+
+#~ msgid "Default fonts"
+#~ msgstr "Fontes padrão"
+
+#~ msgid "Google fonts"
+#~ msgstr "Fontes do Google"
+
+#~ msgid "Font family"
+#~ msgstr "Família tipográfica"
+
+#~ msgid "Reset"
+#~ msgstr "Repor"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografia"
+
+#~ msgid "Body"
+#~ msgstr "Corpo"
+
+#~ msgid "Font weight"
+#~ msgstr "Peso da fonte"
+
+#~ msgid "Text transform"
+#~ msgstr "Transformar texto"
+
+#~ msgid "Font size"
+#~ msgstr "Tamanho da fonte"
+
+#~ msgid "Line height"
+#~ msgstr "Altura da linha"
+
+#~ msgid "Paragraph margin"
+#~ msgstr "Margem do parágrafo"
+
+#~ msgid "Top Bar"
+#~ msgstr "Barra superior"
+
+#~ msgid "Top bar"
+#~ msgstr "Barra superior"
+
+#~ msgid "Header"
+#~ msgstr "Cabeçalho"
+
+#~ msgid "Site title"
+#~ msgstr "Título do site"
+
+#~ msgid "Mobile font size"
+#~ msgstr "Tamanho da fonte em mobile"
+
+#~ msgid "Site tagline"
+#~ msgstr "Descrição do site"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Navegação principal"
+
+#~ msgid "Site navigation"
+#~ msgstr "Navegação do site"
+
+#~ msgid "Content"
+#~ msgstr "Conteúdo"
+
+#~ msgid "Heading 1 (H1)"
+#~ msgstr "Título 1 (H1)"
+
+#~ msgid "Font-size"
+#~ msgstr "Tamanho da fonte"
+
+#~ msgid "Heading 2 (H2)"
+#~ msgstr "Título 2 (H2)"
+
+#~ msgid "Heading 3 (H3)"
+#~ msgstr "Título 3 (H3)"
+
+#~ msgid "Widgets"
+#~ msgstr "Widgets"
+
+#~ msgid "Widget titles"
+#~ msgstr "Títulos dos widgets"
+
+#~ msgid "Content font size"
+#~ msgstr "Tamanho da fonte do conteúdo"
+
+#~ msgid "Footer"
+#~ msgstr "Rodapé"
+
+#~ msgid "Footer font size"
+#~ msgstr "Tamanho da fonte do rodapé"
+
+#~ msgid "Secondary Navigation"
+#~ msgstr "Navegação secundária"
+
+#~ msgid "Secondary navigation"
+#~ msgstr "Navegação secundária"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#, fuzzy
+#~ msgid "Site title font size"
+#~ msgstr "Título do Site - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H1 font size"
+#~ msgstr "Título H1 - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H2 font size"
+#~ msgstr "Título H2 - Tamanho da Fonte"

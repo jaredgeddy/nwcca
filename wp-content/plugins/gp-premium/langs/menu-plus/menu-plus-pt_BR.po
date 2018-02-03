@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Menu Plus\n"
+"POT-Creation-Date: 2017-06-20 00:31-0300\n"
+"PO-Revision-Date: 2017-06-20 00:35-0300\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../../menu-plus/functions\n"
+"X-Poedit-WPHeader: generate-menu-plus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: generate-menu-plus.php:13
+msgid "Slideout Menu"
+msgstr "Menu Slideout"
+
+#: generate-menu-plus.php:25 generate-menu-plus.php:580
+msgid "Menu"
+msgstr "Menu"
+
+#: generate-menu-plus.php:58
+msgid "Menu Plus"
+msgstr "Menu Plus"
+
+#: generate-menu-plus.php:83
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: generate-menu-plus.php:101
+msgid "Mobile Menu Label"
+msgstr "Menu Mobile - Identificador"
+
+#: generate-menu-plus.php:111 generate-menu-plus.php:132
+msgid "Sticky Navigation"
+msgstr "Menu Sticky"
+
+#: generate-menu-plus.php:135 generate-menu-plus.php:333
+msgid "Mobile only"
+msgstr "Mobile apenas"
+
+#: generate-menu-plus.php:136 generate-menu-plus.php:334
+msgid "Desktop only"
+msgstr "Desktop apenas"
+
+#: generate-menu-plus.php:137 generate-menu-plus.php:335
+msgid "Both"
+msgstr "Ambos"
+
+#: generate-menu-plus.php:138 generate-menu-plus.php:250
+#: generate-menu-plus.php:298 generate-menu-plus.php:336
+msgid "Disable"
+msgstr "Desabilitar"
+
+#: generate-menu-plus.php:159
+msgid "Sticky Navigation Transition"
+msgstr "Transição do Menu Sticky"
+
+#: generate-menu-plus.php:162
+msgid "Fade"
+msgstr "Fade"
+
+#: generate-menu-plus.php:163
+msgid "Slide"
+msgstr "Slide"
+
+#: generate-menu-plus.php:164
+msgid "None"
+msgstr "Nenhum"
+
+#: generate-menu-plus.php:187
+msgid "Navigation Logo"
+msgstr "Logo do Menu"
+
+#: generate-menu-plus.php:209
+msgid "Navigation Logo Placement"
+msgstr "Posição do Logo do Menu"
+
+#: generate-menu-plus.php:212
+msgid "Sticky"
+msgstr "Sticky"
+
+#: generate-menu-plus.php:213
+msgid "Sticky + Static"
+msgstr "Sticky + Estático"
+
+#: generate-menu-plus.php:214
+msgid "Static"
+msgstr "Estático"
+
+#: generate-menu-plus.php:226 generate-menu-plus.php:247
+msgid "Mobile Header"
+msgstr "Cabeçalho Mobile"
+
+#: generate-menu-plus.php:251 generate-menu-plus.php:297
+msgid "Enable"
+msgstr "Habilitar"
+
+#: generate-menu-plus.php:272
+msgid "Mobile Header Logo"
+msgstr "Cabeçalho Mobile - Logo"
+
+#: generate-menu-plus.php:294
+msgid "Sticky Mobile Header"
+msgstr "Cabeçalho - Sticky Mobile"
+
+#: generate-menu-plus.php:309
+msgid "Slide-out Navigation"
+msgstr "Menu Slideout"
+
+#: generate-menu-plus.php:330
+msgid "Slideout Navigation"
+msgstr "Menu Slideout"
+
+#: generate-menu-plus.php:623
+msgid "Skip to content"
+msgstr "Pular para conteúdo"
+
+#: import-export.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Atenção: Isto irá apagar suas configurações."
+
+#: import-export.php:19
+msgid "Delete Menu Plus Settings"
+msgstr "Menu Plus - Apagar Configurações"
+
+#: import-export.php:56
+msgid "Export Menu Plus Settings"
+msgstr "Menu Plus - Exportar Configurações"
+
+#~ msgid "Sticky Menu"
+#~ msgstr "Sticky Menu"
+
+#~ msgid "Sticky Navigation Effect"
+#~ msgstr "Sticky Navegação Efeito"
+
+#~ msgid "Navigation Logo Position"
+#~ msgstr "Menu - Posição do Logo "

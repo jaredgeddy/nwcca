@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Colors\n"
+"POT-Creation-Date: 2017-05-04 08:38+0100\n"
+"PO-Revision-Date: 2017-05-05 08:50+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: colors/functions\n"
+
+#: colors/functions/functions.php:43
+msgid "Colors"
+msgstr "Cores"
+
+#: colors/functions/functions.php:53
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: colors/functions/functions.php:76 colors/functions/functions.php:163
+#: colors/functions/functions.php:259 colors/functions/functions.php:391
+#: colors/functions/functions.php:522 colors/functions/functions.php:658
+#: colors/functions/functions.php:746 colors/functions/functions.php:1047
+#: colors/functions/secondary-nav-colors.php:71
+#: colors/functions/secondary-nav-colors.php:223
+msgid "Background"
+msgstr "Fundo"
+
+#: colors/functions/functions.php:92 colors/functions/functions.php:178
+#: colors/functions/functions.php:323 colors/functions/functions.php:455
+#: colors/functions/functions.php:536 colors/functions/functions.php:672
+#: colors/functions/functions.php:760 colors/functions/functions.php:1061
+#: colors/functions/secondary-nav-colors.php:95
+#: colors/functions/secondary-nav-colors.php:247
+msgid "Text"
+msgstr "Texto"
+
+#: colors/functions/functions.php:98 colors/functions/functions.php:184
+#: colors/functions/functions.php:542 colors/functions/functions.php:678
+#: colors/functions/functions.php:766 colors/functions/functions.php:1067
+msgid "Link"
+msgstr "Ligação"
+
+#: colors/functions/functions.php:104 colors/functions/functions.php:190
+#: colors/functions/functions.php:548 colors/functions/functions.php:684
+#: colors/functions/functions.php:772 colors/functions/functions.php:1073
+msgid "Link Hover"
+msgstr "Ligação ao passar com o rato"
+
+#: colors/functions/functions.php:140
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: colors/functions/functions.php:196
+msgid "Site Title"
+msgstr "Título do site"
+
+#: colors/functions/functions.php:202
+msgid "Tagline"
+msgstr "Descrição do site"
+
+#: colors/functions/functions.php:236
+msgid "Primary Navigation"
+msgstr "Navegação principal"
+
+#: colors/functions/functions.php:284 colors/functions/functions.php:416
+#: colors/functions/secondary-nav-colors.php:118
+#: colors/functions/secondary-nav-colors.php:270
+msgid "Background Hover"
+msgstr "Fundo ao passar com o rato"
+
+#: colors/functions/functions.php:309 colors/functions/functions.php:441
+#: colors/functions/secondary-nav-colors.php:165
+#: colors/functions/secondary-nav-colors.php:317
+msgid "Background Current"
+msgstr "Fundo activo"
+
+#: colors/functions/functions.php:329 colors/functions/functions.php:461
+#: colors/functions/secondary-nav-colors.php:142
+#: colors/functions/secondary-nav-colors.php:294
+msgid "Text Hover"
+msgstr "Texto ao passar com o rato"
+
+#: colors/functions/functions.php:335 colors/functions/functions.php:467
+#: colors/functions/secondary-nav-colors.php:189
+#: colors/functions/secondary-nav-colors.php:341
+msgid "Text Current"
+msgstr "Texto activo"
+
+#: colors/functions/functions.php:368
+msgid "Primary Sub-Navigation"
+msgstr "Navegação principal - subitens"
+
+#: colors/functions/functions.php:499
+msgid "Content"
+msgstr "Conteúdo"
+
+#: colors/functions/functions.php:554
+msgid "Content Title"
+msgstr "Título do conteúdo"
+
+#: colors/functions/functions.php:560
+msgid "Blog Post Title"
+msgstr "Título de artigo do blog"
+
+#: colors/functions/functions.php:566
+msgid "Blog Post Title Hover"
+msgstr "Título de artigo do blog ao passar com o rato"
+
+#: colors/functions/functions.php:572
+msgid "Entry Meta Text"
+msgstr "Texto de metadados"
+
+#: colors/functions/functions.php:578
+msgid "Entry Meta Links"
+msgstr "Ligação de metadados"
+
+#: colors/functions/functions.php:584
+msgid "Entry Meta Links Hover"
+msgstr "Ligação de metadados ao passar com o rato"
+
+#: colors/functions/functions.php:590
+msgid "Heading 1 (H1) Color"
+msgstr "Título 1 (H1)"
+
+#: colors/functions/functions.php:596
+msgid "Heading 2 (H2) Color"
+msgstr "Título 2 (H2)"
+
+#: colors/functions/functions.php:602
+msgid "Heading 3 (H3) Color"
+msgstr "Título 3 (H3)"
+
+#: colors/functions/functions.php:635
+msgid "Sidebar Widgets"
+msgstr "Widgets da barra lateral"
+
+#: colors/functions/functions.php:690 colors/functions/functions.php:778
+msgid "Widget Title"
+msgstr "Título do widget"
+
+#: colors/functions/functions.php:723
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: colors/functions/functions.php:811
+msgid "Forms"
+msgstr "Formulários"
+
+#: colors/functions/functions.php:834
+msgid "Form Background"
+msgstr "Fundo de formulário"
+
+#: colors/functions/functions.php:859
+msgid "Form Background Focus"
+msgstr "Fundo de formulário em foco"
+
+#: colors/functions/functions.php:884
+msgid "Form Border"
+msgstr "Borda de formulário"
+
+#: colors/functions/functions.php:909
+msgid "Form Border Focus"
+msgstr "Borda de formulário em foco"
+
+#: colors/functions/functions.php:934
+msgid "Form Button"
+msgstr "Botão de formulário"
+
+#: colors/functions/functions.php:959
+msgid "Form Button Hover"
+msgstr "Botão de formulário ao passar com o rato"
+
+#: colors/functions/functions.php:973
+msgid "Form Text"
+msgstr "Texto de formulário"
+
+#: colors/functions/functions.php:979
+msgid "Form Text Focus"
+msgstr "Texto de formulário em foco"
+
+#: colors/functions/functions.php:985
+msgid "Form Button Text"
+msgstr "Texto de botão de formulário"
+
+#: colors/functions/functions.php:991
+msgid "Form Button Text Hover"
+msgstr "Texto de botão de formulário ao passar com o rato"
+
+#: colors/functions/functions.php:1024
+msgid "Footer"
+msgstr "Rodapé"
+
+#: colors/functions/secondary-nav-colors.php:48
+msgid "Secondary Navigation"
+msgstr "Navegação secundária"
+
+#: colors/functions/secondary-nav-colors.php:200
+msgid "Secondary Sub-Navigation"
+msgstr "Navegação secundária - subitens"
+
+#: colors/functions/woocommerce-colors.php:52
+msgid "Product title"
+msgstr "Título do produto"
+
+#: colors/functions/woocommerce-colors.php:74
+msgid "Product title hover"
+msgstr "Título do produto ao passar com o rato"
+
+#: colors/functions/woocommerce-colors.php:97
+msgid "Alt button background"
+msgstr "Fundo do botão alternativo"
+
+#: colors/functions/woocommerce-colors.php:121
+msgid "Alt button background hover"
+msgstr "Fundo do botão alternativo ao passar com o rato"
+
+#: colors/functions/woocommerce-colors.php:144
+msgid "Alt button text"
+msgstr "Texto do botão alternativo"
+
+#: colors/functions/woocommerce-colors.php:167
+msgid "Alt button text hover"
+msgstr "Texto do botão alternativo ao passar com o rato"
+
+#: colors/functions/woocommerce-colors.php:190
+#: colors/functions/woocommerce-colors.php:214
+msgid "Star ratings"
+msgstr "Classificação por estrelas"
+
+#: colors/functions/woocommerce-colors.php:238
+msgid "Sale sticker background"
+msgstr "Fundo de etiqueta de promoção"
+
+#: colors/functions/woocommerce-colors.php:261
+msgid "Sale sticker text"
+msgstr "Texto de etiqueta de promoção"
+
+#: colors/functions/woocommerce-colors.php:283
+msgid "Price"
+msgstr "Preço"
+
+#: colors/functions/woocommerce-colors.php:305
+msgid "Product tab text"
+msgstr "Texto de separador do produto"
+
+#: colors/functions/woocommerce-colors.php:327
+msgid "Product tab active"
+msgstr "Separador activo do produto"
+
+#: colors/functions/woocommerce-colors.php:350
+msgid "Success message background"
+msgstr "Fundo de mensagem de sucesso"
+
+#: colors/functions/woocommerce-colors.php:373
+msgid "Success message text"
+msgstr "Texto de mensagem de sucesso"
+
+#: colors/functions/woocommerce-colors.php:396
+msgid "Info message background"
+msgstr "Fundo de mensagem informativa"
+
+#: colors/functions/woocommerce-colors.php:419
+msgid "Info message text"
+msgstr "Texto de mensagem informativa"
+
+#: colors/functions/woocommerce-colors.php:442
+msgid "Error message background"
+msgstr "Fundo de mensagem de erro"
+
+#: colors/functions/woocommerce-colors.php:465
+msgid "Error message text"
+msgstr "Texto de mensagem de erro"
+
+#, fuzzy
+#~ msgid "Form Background Focus/Hover"
+#~ msgstr "Formulário - Cor de Fundo Em Foco/Hover"
+
+#, fuzzy
+#~ msgid "Form Text Focus/Hover"
+#~ msgstr "Formulário - Texto em Foco/Hover"
+
+#, fuzzy
+#~ msgid "Form Border Focus/Hover"
+#~ msgstr "Formulário - Borda em Foco/Hover"
+
+#, fuzzy
+#~ msgid "Form Button Focus/Hover"
+#~ msgstr "Formulário - Botão em Foco/Hover"
+
+#, fuzzy
+#~ msgid "Form Button Text Focus/Hover"
+#~ msgstr "Formulário - Texto do Botão em Foco/Hover"

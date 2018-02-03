@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Hooks\n"
+"POT-Creation-Date: 2017-06-04 18:46-0300\n"
+"PO-Revision-Date: 2017-08-07 19:30-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: hooks\n"
+
+#: hooks/functions/functions.php:59 hooks/functions/functions.php:79
+#: hooks/functions/functions.php:330
+msgid "GP Hooks"
+msgstr "Hooks de GP"
+
+#: hooks/functions/functions.php:95
+msgid "wp_head"
+msgstr "wp_head"
+
+#: hooks/functions/functions.php:101
+msgid "Before Header"
+msgstr "Antes de la cabecera"
+
+#: hooks/functions/functions.php:107
+msgid "Before Header Content"
+msgstr "Antes del contenido de la cabecera"
+
+#: hooks/functions/functions.php:113
+msgid "After Header Content"
+msgstr "Después del contenido de la cabecera"
+
+#: hooks/functions/functions.php:119
+msgid "After Header"
+msgstr "Después de la cabecera"
+
+#: hooks/functions/functions.php:125
+msgid "Inside Content Container"
+msgstr "Dentro del contenedor del contenido"
+
+#: hooks/functions/functions.php:131
+msgid "Before Content"
+msgstr "Antes del contenido"
+
+#: hooks/functions/functions.php:137
+msgid "After Entry Title"
+msgstr "Después del título de la entrada"
+
+#: hooks/functions/functions.php:143
+msgid "After Content"
+msgstr "Después del contenido"
+
+#: hooks/functions/functions.php:149
+msgid "Before Right Sidebar Content"
+msgstr "Antes del contenido de la barra lateral derecha"
+
+#: hooks/functions/functions.php:155
+msgid "After Right Sidebar Content"
+msgstr "Después del contenido de la barra lateral derecha"
+
+#: hooks/functions/functions.php:161
+msgid "Before Left Sidebar Content"
+msgstr "Antes del contenido de la barra lateral izquierda"
+
+#: hooks/functions/functions.php:167
+msgid "After Left Sidebar Content"
+msgstr "Después del contenido de la barra lateral izquierda"
+
+#: hooks/functions/functions.php:173
+msgid "Before Footer"
+msgstr "Antes del pie de página"
+
+#: hooks/functions/functions.php:179
+msgid "After Footer Widgets"
+msgstr "Después de los widgets del pie de página"
+
+#: hooks/functions/functions.php:185
+msgid "Before Footer Content"
+msgstr "Antes del contenido del pie de página"
+
+#: hooks/functions/functions.php:191
+msgid "After Footer Content"
+msgstr "Después del contenido del pie de página"
+
+#: hooks/functions/functions.php:197
+msgid "wp_footer"
+msgstr "wp_footer"
+
+#: hooks/functions/functions.php:282
+msgid "Execute PHP"
+msgstr "Ejecutar PHP"
+
+#: hooks/functions/functions.php:284
+msgid "Disable Hook"
+msgstr "Desactivar hook"
+
+#: hooks/functions/functions.php:332
+msgid ""
+"Use these fields to insert anything you like throughout GeneratePress. "
+"Shortcodes are allowed, and you can even use PHP if you check the Execute "
+"PHP checkboxes."
+msgstr ""
+"Use estos campos para insertar lo que necesite en GeneratePress. Se "
+"permiten códigos abreviados, y hasta puede usar PHP si activa las "
+"casillas de selección \"Ejecutar PHP\"."
+
+#: hooks/functions/functions.php:334
+msgid "Show all"
+msgstr "Mostrar todo"
+
+#: hooks/functions/functions.php:345
+msgid "Save Hooks"
+msgstr "Guardar hooks"
+
+#: hooks/functions/functions.php:415
+msgid "Hooks saved."
+msgstr "Hooks guardados."
+
+#: hooks/functions/ie.php:59
+msgid "Export GP Hooks"
+msgstr "Exportar hooks de GP"
+
+#: hooks/functions/ie.php:109
+msgid "Warning: This will delete your settings."
+msgstr "Advertencia: Esto borrará los ajustes."
+
+#: hooks/functions/ie.php:111
+msgid "Delete GP Hooks"
+msgstr "Eliminar hooks de GP"

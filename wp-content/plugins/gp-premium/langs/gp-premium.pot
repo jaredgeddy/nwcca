@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GP Premium\n"
+"POT-Creation-Date: 2017-05-03 13:01-0700\n"
+"PO-Revision-Date: 2016-10-01 21:24-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../inc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: EDD_SL_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:396
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: EDD_SL_Plugin_Updater.php:396
+msgid "Error"
+msgstr ""
+
+#: activation.php:13
+msgid "Add-on deactivated."
+msgstr ""
+
+#: activation.php:17
+msgid "Add-on activated."
+msgstr ""
+
+#: activation.php:59
+msgid "GP Premium"
+msgstr ""
+
+#: activation.php:67
+msgid "Bulk Actions"
+msgstr ""
+
+#: activation.php:68 activation.php:105
+msgid "Activate"
+msgstr ""
+
+#: activation.php:69 activation.php:89
+msgid "Deactivate"
+msgstr ""
+
+#: activation.php:72
+msgid "Apply"
+msgstr ""
+
+#: activation.php:102
+msgid "WooCommerce not installed."
+msgstr ""
+
+#: activation.php:426
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: verify.php:78
+msgid "License deactivated."
+msgstr ""
+
+#: verify.php:82
+msgid "License activated."
+msgstr ""
+
+#: verify.php:115
+msgid "Updates"
+msgstr ""
+
+#: verify.php:115
+msgid "Help"
+msgstr ""
+
+#: verify.php:132
+msgid "Activated"
+msgstr ""
+
+#: verify.php:134
+msgid "Not activated"
+msgstr ""
+
+#: verify.php:140
+msgid "License Key"
+msgstr ""
+
+#: verify.php:145
+msgid "Update"
+msgstr ""
+
+#: verify.php:235
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: verify.php:242
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: verify.php:247
+msgid "Invalid license."
+msgstr ""
+
+#: verify.php:253
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: verify.php:258
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: verify.php:263
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: verify.php:268
+msgid "An error occurred, please try again."
+msgstr ""

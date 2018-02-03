@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2017-05-04 11:13+0100\n"
+"PO-Revision-Date: 2017-05-04 11:14+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: library/customizer/controls/class-typography-control."
+"php\n"
+"X-Poedit-SearchPath-1: library/customizer/controls/class-deprecated.php\n"
+"X-Poedit-SearchPath-2: typography\n"
+"X-Poedit-SearchPath-3: typography/functions\n"
+
+#: library/customizer/controls/class-deprecated.php:27
+msgid "Reset"
+msgstr "Repor"
+
+#: library/customizer/controls/class-deprecated.php:275
+msgid "Apply image sizes"
+msgstr "Aplicar tamanho de imagem"
+
+#: library/customizer/controls/class-typography-control.php:23
+msgid "Default fonts"
+msgstr "Fontes padrão"
+
+#: library/customizer/controls/class-typography-control.php:24
+msgid "Google fonts"
+msgstr "Fontes do Google"
+
+#: library/customizer/controls/class-typography-control.php:27
+msgid "Font family"
+msgstr "Família tipográfica"
+
+#: library/customizer/controls/class-typography-control.php:28
+msgid "Font weight"
+msgstr "Peso da fonte"
+
+#: library/customizer/controls/class-typography-control.php:29
+msgid "Text transform"
+msgstr "Transformar texto"
+
+#: typography/functions/functions.php:45
+msgid "Typography"
+msgstr "Tipografia"
+
+#: typography/functions/functions.php:54
+msgid "Body"
+msgstr "Corpo"
+
+#: typography/functions/functions.php:146
+#: typography/functions/functions.php:337
+#: typography/functions/functions.php:466
+#: typography/functions/functions.php:578
+#: typography/functions/functions.php:702
+#: typography/functions/functions.php:831
+#: typography/functions/functions.php:946
+#: typography/functions/functions.php:1051
+#: typography/functions/functions.php:1165
+#: typography/functions/functions.php:1247
+#: typography/functions/secondary-nav-fonts.php:137
+#: typography/functions/woocommerce-fonts.php:99
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+#: typography/functions/functions.php:181
+msgid "Line height"
+msgstr "Altura da linha"
+
+#: typography/functions/functions.php:216
+msgid "Paragraph margin"
+msgstr "Margem do parágrafo"
+
+#: typography/functions/functions.php:239
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: typography/functions/functions.php:362
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: typography/functions/functions.php:425
+msgid "Site title"
+msgstr "Título do site"
+
+#: typography/functions/functions.php:548
+msgid "Site tagline"
+msgstr "Descrição do site"
+
+#: typography/functions/functions.php:601
+msgid "Primary Navigation"
+msgstr "Navegação principal"
+
+#: typography/functions/functions.php:733
+msgid "Content"
+msgstr "Conteúdo"
+
+#: typography/functions/functions.php:793
+msgid "Heading 1 (H1)"
+msgstr "Título 1 (H1)"
+
+#: typography/functions/functions.php:908
+msgid "Heading 2 (H2)"
+msgstr "Título 2 (H2)"
+
+#: typography/functions/functions.php:1023
+msgid "Heading 3 (H3)"
+msgstr "Título 3 (H3)"
+
+#: typography/functions/functions.php:1073
+msgid "Widgets"
+msgstr "Widgets"
+
+#: typography/functions/functions.php:1136
+msgid "Widget titles"
+msgstr "Títulos dos widgets"
+
+#: typography/functions/functions.php:1200
+msgid "Content font size"
+msgstr "Tamanho da fonte do conteúdo"
+
+#: typography/functions/functions.php:1223
+msgid "Footer"
+msgstr "Rodapé"
+
+#: typography/functions/secondary-nav-fonts.php:46
+msgid "Secondary Navigation"
+msgstr "Navegação secundária"
+
+#: typography/functions/woocommerce-fonts.php:63
+msgid "Product titles"
+msgstr "Título dos produtos"
+
+#: typography/functions/woocommerce-fonts.php:142
+msgid "Related/upsell title font size"
+msgstr "Tamanho da fonte do título de produtos relacionados"
+
+#~ msgid "Top bar"
+#~ msgstr "Barra superior"
+
+#~ msgid "Mobile font size"
+#~ msgstr "Tamanho da fonte em mobile"
+
+#~ msgid "Site navigation"
+#~ msgstr "Navegação do site"
+
+#~ msgid "Font-size"
+#~ msgstr "Tamanho da fonte"
+
+#~ msgid "Footer font size"
+#~ msgstr "Tamanho da fonte do rodapé"
+
+#~ msgid "Secondary navigation"
+#~ msgstr "Navegação secundária"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#, fuzzy
+#~ msgid "Site title font size"
+#~ msgstr "Título do Site - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H1 font size"
+#~ msgstr "Título H1 - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H2 font size"
+#~ msgstr "Título H2 - Tamanho da Fonte"

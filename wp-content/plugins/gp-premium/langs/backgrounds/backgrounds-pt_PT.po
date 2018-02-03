@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Backgrounds\n"
+"POT-Creation-Date: 2017-03-09 02:33+0000\n"
+"PO-Revision-Date: 2017-03-09 08:36+0000\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../../backgrounds\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/functions.php:98 functions/functions.php:107
+msgid "Background Images"
+msgstr "Imagens de fundo"
+
+#: functions/functions.php:116 functions/functions.php:142
+msgid "Body"
+msgstr "Corpo"
+
+#: functions/functions.php:162 functions/functions.php:295
+#: functions/functions.php:424 functions/functions.php:557
+#: functions/functions.php:607 functions/functions.php:657
+#: functions/functions.php:707 functions/functions.php:767
+#: functions/functions.php:817 functions/functions.php:867
+#: functions/functions.php:927 functions/functions.php:1060
+#: functions/functions.php:1193 functions/functions.php:1316
+#: functions/secondary-nav-backgrounds.php:93
+#: functions/secondary-nav-backgrounds.php:142
+#: functions/secondary-nav-backgrounds.php:191
+#: functions/secondary-nav-backgrounds.php:240
+#: functions/secondary-nav-backgrounds.php:301
+#: functions/secondary-nav-backgrounds.php:350
+#: functions/secondary-nav-backgrounds.php:399
+msgid "Repeat"
+msgstr "Repetir"
+
+#: functions/functions.php:163 functions/functions.php:296
+#: functions/functions.php:425 functions/functions.php:558
+#: functions/functions.php:608 functions/functions.php:658
+#: functions/functions.php:708 functions/functions.php:768
+#: functions/functions.php:818 functions/functions.php:868
+#: functions/functions.php:928 functions/functions.php:1061
+#: functions/functions.php:1194 functions/functions.php:1317
+#: functions/secondary-nav-backgrounds.php:94
+#: functions/secondary-nav-backgrounds.php:143
+#: functions/secondary-nav-backgrounds.php:192
+#: functions/secondary-nav-backgrounds.php:241
+#: functions/secondary-nav-backgrounds.php:302
+#: functions/secondary-nav-backgrounds.php:351
+#: functions/secondary-nav-backgrounds.php:400
+msgid "Repeat x"
+msgstr "Repetir na horizontal"
+
+#: functions/functions.php:164 functions/functions.php:297
+#: functions/functions.php:426 functions/functions.php:559
+#: functions/functions.php:609 functions/functions.php:659
+#: functions/functions.php:709 functions/functions.php:769
+#: functions/functions.php:819 functions/functions.php:869
+#: functions/functions.php:929 functions/functions.php:1062
+#: functions/functions.php:1195 functions/functions.php:1318
+#: functions/secondary-nav-backgrounds.php:95
+#: functions/secondary-nav-backgrounds.php:144
+#: functions/secondary-nav-backgrounds.php:193
+#: functions/secondary-nav-backgrounds.php:242
+#: functions/secondary-nav-backgrounds.php:303
+#: functions/secondary-nav-backgrounds.php:352
+#: functions/secondary-nav-backgrounds.php:401
+msgid "Repeat y"
+msgstr "Repetir na vertical"
+
+#: functions/functions.php:165 functions/functions.php:298
+#: functions/functions.php:427 functions/functions.php:560
+#: functions/functions.php:610 functions/functions.php:660
+#: functions/functions.php:710 functions/functions.php:770
+#: functions/functions.php:820 functions/functions.php:870
+#: functions/functions.php:930 functions/functions.php:1063
+#: functions/functions.php:1196 functions/functions.php:1319
+#: functions/secondary-nav-backgrounds.php:96
+#: functions/secondary-nav-backgrounds.php:145
+#: functions/secondary-nav-backgrounds.php:194
+#: functions/secondary-nav-backgrounds.php:243
+#: functions/secondary-nav-backgrounds.php:304
+#: functions/secondary-nav-backgrounds.php:353
+#: functions/secondary-nav-backgrounds.php:402
+msgid "No Repeat"
+msgstr "Não repetir"
+
+#: functions/functions.php:187 functions/functions.php:319
+#: functions/functions.php:449 functions/functions.php:952
+#: functions/functions.php:1085 functions/functions.php:1218
+#: functions/functions.php:1341
+msgid "Size (Auto)"
+msgstr "Tamanho (Automático)"
+
+#: functions/functions.php:188 functions/functions.php:320
+#: functions/functions.php:450 functions/functions.php:953
+#: functions/functions.php:1086 functions/functions.php:1219
+#: functions/functions.php:1342
+msgid "100% Width"
+msgstr "100% da largura"
+
+#: functions/functions.php:189 functions/functions.php:321
+#: functions/functions.php:451 functions/functions.php:954
+#: functions/functions.php:1087 functions/functions.php:1220
+#: functions/functions.php:1343
+msgid "Cover"
+msgstr "Capa"
+
+#: functions/functions.php:190 functions/functions.php:322
+#: functions/functions.php:452 functions/functions.php:955
+#: functions/functions.php:1088 functions/functions.php:1221
+#: functions/functions.php:1344
+msgid "Contain"
+msgstr "Limitar"
+
+#: functions/functions.php:212 functions/functions.php:343
+#: functions/functions.php:474 functions/functions.php:977
+#: functions/functions.php:1110 functions/functions.php:1243
+#: functions/functions.php:1366
+msgid "Attachment"
+msgstr "Anexo"
+
+#: functions/functions.php:213 functions/functions.php:344
+#: functions/functions.php:475 functions/functions.php:978
+#: functions/functions.php:1111 functions/functions.php:1244
+#: functions/functions.php:1367
+msgid "Fixed"
+msgstr "Fixo"
+
+#: functions/functions.php:214 functions/functions.php:345
+#: functions/functions.php:476 functions/functions.php:979
+#: functions/functions.php:1112 functions/functions.php:1245
+#: functions/functions.php:1368
+msgid "Local"
+msgstr "Local"
+
+#: functions/functions.php:215 functions/functions.php:346
+#: functions/functions.php:477 functions/functions.php:980
+#: functions/functions.php:1113 functions/functions.php:1246
+#: functions/functions.php:1369
+msgid "Inherit"
+msgstr "Herdar"
+
+#: functions/functions.php:240 functions/functions.php:369
+#: functions/functions.php:502 functions/functions.php:1005
+#: functions/functions.php:1138 functions/functions.php:1271
+#: functions/functions.php:1394
+msgid "Position"
+msgstr "Posição"
+
+#: functions/functions.php:251 functions/functions.php:275
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: functions/functions.php:380 functions/functions.php:404
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: functions/functions.php:510
+msgid "Primary Navigation"
+msgstr "Navegação principal"
+
+#: functions/functions.php:537 functions/secondary-nav-backgrounds.php:72
+msgid "Navigation"
+msgstr "Navegação"
+
+#: functions/functions.php:587 functions/secondary-nav-backgrounds.php:121
+msgid "Navigation Item"
+msgstr "Item de navegação"
+
+#: functions/functions.php:637 functions/secondary-nav-backgrounds.php:170
+msgid "Navigation Item Hover"
+msgstr "Item de navegação ao passar com o rato"
+
+#: functions/functions.php:687 functions/secondary-nav-backgrounds.php:219
+msgid "Navigation Item Current"
+msgstr "Item de navegação activo"
+
+#: functions/functions.php:720
+msgid "Primary Sub-Navigation"
+msgstr "Navegação principal - Subitens"
+
+#: functions/functions.php:747 functions/secondary-nav-backgrounds.php:280
+msgid "Sub-Navigation Item"
+msgstr "Subitem de navegação"
+
+#: functions/functions.php:797 functions/secondary-nav-backgrounds.php:329
+msgid "Sub-Navigation Item Hover"
+msgstr "Subitem de navegação ao passar com o rato"
+
+#: functions/functions.php:847 functions/secondary-nav-backgrounds.php:378
+msgid "Sub-Navigation Item Current"
+msgstr "Subitem de navegação activo"
+
+#: functions/functions.php:880 functions/functions.php:907
+msgid "Content"
+msgstr "Conteúdo"
+
+#: functions/functions.php:1013
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions/functions.php:1040
+msgid "Sidebar Widgets"
+msgstr "Widgets da barra lateral"
+
+#: functions/functions.php:1146
+msgid "Footer"
+msgstr "Rodapé"
+
+#: functions/functions.php:1173
+msgid "Footer Widget Area"
+msgstr "Área de widgets do rodapé"
+
+#: functions/functions.php:1296
+msgid "Footer Area"
+msgstr "Área do rodapé"
+
+#: functions/ie.php:14
+msgid "Export Backgrounds Settings"
+msgstr "Exportar configurações de Backgrounds"
+
+#: functions/ie.php:63
+msgid "Warning: This will delete your settings."
+msgstr "Aviso: Isto irá eliminar as suas configurações."
+
+#: functions/ie.php:65
+msgid "Delete Backgrounds Settings"
+msgstr "Eliminar configurações de Backgrounds"
+
+#: functions/secondary-nav-backgrounds.php:46
+msgid "Secondary Navigation"
+msgstr "Navegação secundária"
+
+#: functions/secondary-nav-backgrounds.php:254
+msgid "Secondary Sub-Navigation"
+msgstr "Navegação secundária - subitens"
+
+#~ msgid "Export Backgrounds Customizer Settings"
+#~ msgstr "Exportar configurações de Backgrounds"
+
+#~ msgid "Delete Backgrounds Customizer Settings"
+#~ msgstr "Eliminar configurações de Backgrounds"

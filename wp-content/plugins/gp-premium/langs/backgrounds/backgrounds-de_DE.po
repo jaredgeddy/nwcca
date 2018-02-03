@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Backgrounds\n"
+"POT-Creation-Date: 2017-03-09 11:40-0800\n"
+"PO-Revision-Date: 2017-10-14 17:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:98 functions.php:107
+msgid "Background Images"
+msgstr "Hintergrundbilder"
+
+#: functions.php:116 functions.php:142
+msgid "Body"
+msgstr "Seitenhintergrund (Body)"
+
+#: functions.php:162 functions.php:295 functions.php:424 functions.php:557
+#: functions.php:607 functions.php:657 functions.php:707 functions.php:767
+#: functions.php:817 functions.php:867 functions.php:927 functions.php:1060
+#: functions.php:1193 functions.php:1316 secondary-nav-backgrounds.php:93
+#: secondary-nav-backgrounds.php:142 secondary-nav-backgrounds.php:191
+#: secondary-nav-backgrounds.php:240 secondary-nav-backgrounds.php:301
+#: secondary-nav-backgrounds.php:350 secondary-nav-backgrounds.php:399
+msgid "Repeat"
+msgstr "Wiederholen"
+
+#: functions.php:163 functions.php:296 functions.php:425 functions.php:558
+#: functions.php:608 functions.php:658 functions.php:708 functions.php:768
+#: functions.php:818 functions.php:868 functions.php:928 functions.php:1061
+#: functions.php:1194 functions.php:1317 secondary-nav-backgrounds.php:94
+#: secondary-nav-backgrounds.php:143 secondary-nav-backgrounds.php:192
+#: secondary-nav-backgrounds.php:241 secondary-nav-backgrounds.php:302
+#: secondary-nav-backgrounds.php:351 secondary-nav-backgrounds.php:400
+msgid "Repeat x"
+msgstr "Wiederholen x"
+
+#: functions.php:164 functions.php:297 functions.php:426 functions.php:559
+#: functions.php:609 functions.php:659 functions.php:709 functions.php:769
+#: functions.php:819 functions.php:869 functions.php:929 functions.php:1062
+#: functions.php:1195 functions.php:1318 secondary-nav-backgrounds.php:95
+#: secondary-nav-backgrounds.php:144 secondary-nav-backgrounds.php:193
+#: secondary-nav-backgrounds.php:242 secondary-nav-backgrounds.php:303
+#: secondary-nav-backgrounds.php:352 secondary-nav-backgrounds.php:401
+msgid "Repeat y"
+msgstr "Wiederholen y"
+
+#: functions.php:165 functions.php:298 functions.php:427 functions.php:560
+#: functions.php:610 functions.php:660 functions.php:710 functions.php:770
+#: functions.php:820 functions.php:870 functions.php:930 functions.php:1063
+#: functions.php:1196 functions.php:1319 secondary-nav-backgrounds.php:96
+#: secondary-nav-backgrounds.php:145 secondary-nav-backgrounds.php:194
+#: secondary-nav-backgrounds.php:243 secondary-nav-backgrounds.php:304
+#: secondary-nav-backgrounds.php:353 secondary-nav-backgrounds.php:402
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+#: functions.php:187 functions.php:319 functions.php:449 functions.php:952
+#: functions.php:1085 functions.php:1218 functions.php:1341
+msgid "Size (Auto)"
+msgstr "Originalgröße"
+
+#: functions.php:188 functions.php:320 functions.php:450 functions.php:953
+#: functions.php:1086 functions.php:1219 functions.php:1342
+msgid "100% Width"
+msgstr "100% Breite"
+
+#: functions.php:189 functions.php:321 functions.php:451 functions.php:954
+#: functions.php:1087 functions.php:1220 functions.php:1343
+msgid "Cover"
+msgstr "Deckend"
+
+#: functions.php:190 functions.php:322 functions.php:452 functions.php:955
+#: functions.php:1088 functions.php:1221 functions.php:1344
+msgid "Contain"
+msgstr "Passend skalieren"
+
+#: functions.php:212 functions.php:343 functions.php:474 functions.php:977
+#: functions.php:1110 functions.php:1243 functions.php:1366
+msgid "Attachment"
+msgstr "Absolut verschieben"
+
+#: functions.php:213 functions.php:344 functions.php:475 functions.php:978
+#: functions.php:1111 functions.php:1244 functions.php:1367
+msgid "Fixed"
+msgstr "Fixieren"
+
+#: functions.php:214 functions.php:345 functions.php:476 functions.php:979
+#: functions.php:1112 functions.php:1245 functions.php:1368
+msgid "Local"
+msgstr "Relativ verschieben"
+
+#: functions.php:215 functions.php:346 functions.php:477 functions.php:980
+#: functions.php:1113 functions.php:1246 functions.php:1369
+msgid "Inherit"
+msgstr "Vererbt"
+
+#: functions.php:240 functions.php:369 functions.php:502 functions.php:1005
+#: functions.php:1138 functions.php:1271 functions.php:1394
+msgid "Position"
+msgstr "Position"
+
+#: functions.php:251 functions.php:275
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: functions.php:380 functions.php:404
+msgid "Header"
+msgstr "Kopfbereich"
+
+#: functions.php:510
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: functions.php:537 secondary-nav-backgrounds.php:72
+msgid "Navigation"
+msgstr "Navigation"
+
+#: functions.php:587 secondary-nav-backgrounds.php:121
+msgid "Navigation Item"
+msgstr "Navigationselement"
+
+#: functions.php:637 secondary-nav-backgrounds.php:170
+msgid "Navigation Item Hover"
+msgstr "Navigation bei Mauskontakt"
+
+#: functions.php:687 secondary-nav-backgrounds.php:219
+msgid "Navigation Item Current"
+msgstr "Aktives Navigationselement"
+
+#: functions.php:720
+msgid "Primary Sub-Navigation"
+msgstr "Primäre Sub-Navigation"
+
+#: functions.php:747 secondary-nav-backgrounds.php:280
+msgid "Sub-Navigation Item"
+msgstr "Subnavigationslement"
+
+#: functions.php:797 secondary-nav-backgrounds.php:329
+msgid "Sub-Navigation Item Hover"
+msgstr "Sub-Navigation bei Mauskontakt"
+
+#: functions.php:847 secondary-nav-backgrounds.php:378
+msgid "Sub-Navigation Item Current"
+msgstr "Aktives Subnavigationselement"
+
+#: functions.php:880 functions.php:907
+msgid "Content"
+msgstr "Inhalt"
+
+#: functions.php:1013
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:1040
+msgid "Sidebar Widgets"
+msgstr "Seitenleisten-Widgets"
+
+#: functions.php:1146
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: functions.php:1173
+msgid "Footer Widget Area"
+msgstr "Fußbereich-Widget"
+
+#: functions.php:1296
+msgid "Footer Area"
+msgstr "Fußbereich"
+
+#: ie.php:14
+msgid "Export Backgrounds Settings"
+msgstr "Hintergrund-Einstellungen exportieren"
+
+#: ie.php:63
+msgid "Warning: This will delete your settings."
+msgstr "Warnung: Ihre Einstellungen werden gelöscht."
+
+#: ie.php:65
+msgid "Delete Backgrounds Settings"
+msgstr "Hintergrund-Einstellungen löschen"
+
+#: secondary-nav-backgrounds.php:46
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: secondary-nav-backgrounds.php:254
+msgid "Secondary Sub-Navigation"
+msgstr "Sekundäre Sub-Navigation"
+
+#~ msgid "Select Image"
+#~ msgstr "Bild auswählen"
+
+#~ msgid "Use Image"
+#~ msgstr "Bild verwenden"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$sverfügbar. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Zeige Details der Version %3$s </a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Es ist eine neue Version von %1$s verfügbar. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Zeige Details zu Version %3$s </a> or <a href="
+#~ "\"%4$s\">aktualisiere jetzt.</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail "
+#~ "mit der Du bezahlt hast."
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "E-Mail deaktivieren"
+
+#~ msgid "Activate Email"
+#~ msgstr "E-Mail aktivieren"
+
+#~ msgid "Save Email"
+#~ msgstr "E-Mail speichern"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Alle Updates aktivieren"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Updates deaktivieren"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Updates aktivieren"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+#~ "Aufzeichnungen vorhanden."
+
+#~ msgid "Email activated."
+#~ msgstr "E-Mail aktiviert."
+
+#~ msgid "Email deactivated."
+#~ msgstr "E-Mail deaktiviert."
+
+#~ msgid "License failed."
+#~ msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#~ msgid "License activated."
+#~ msgstr "Lizenz aktiviert."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Lizenzen aktiviert."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivierung ist fehlgeschlagen."
+
+#~ msgid "License deactivated."
+#~ msgstr "Lizenz deaktiviert."

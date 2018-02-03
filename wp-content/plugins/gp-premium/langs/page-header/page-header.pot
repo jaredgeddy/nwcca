@@ -1,0 +1,420 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2017-06-15 23:30-0700\n"
+"PO-Revision-Date: 2015-05-19 10:39-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: page-header/functions\n"
+
+#: page-header/functions/functions.php:758
+#: page-header/functions/metabox.php:37 page-header/functions/metabox.php:53
+#: page-header/functions/post-type.php:17
+#: page-header/functions/post-type.php:31
+#: page-header/functions/post-type.php:77
+#: page-header/functions/post-type.php:102
+msgid "Page Header"
+msgstr ""
+
+#: page-header/functions/functions.php:782
+msgid "Page Header Location"
+msgstr ""
+
+#: page-header/functions/functions.php:785
+#: page-header/functions/functions.php:810
+msgid "Above Content Area"
+msgstr ""
+
+#: page-header/functions/functions.php:786
+#: page-header/functions/functions.php:811
+msgid "Inside Content Area"
+msgstr ""
+
+#: page-header/functions/functions.php:807
+msgid "Single Post Header Location"
+msgstr ""
+
+#: page-header/functions/functions.php:812
+msgid "Below Post Title"
+msgstr ""
+
+#: page-header/functions/functions.php:813
+msgid "Hide"
+msgstr ""
+
+#: page-header/functions/functions.php:1046
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: page-header/functions/global-locations.php:22
+#: page-header/functions/global-locations.php:23
+#: page-header/functions/global-locations.php:38
+msgid "Global Locations"
+msgstr ""
+
+#: page-header/functions/global-locations.php:71
+msgid "Posts page (blog)"
+msgstr ""
+
+#: page-header/functions/global-locations.php:80
+msgid "Search results"
+msgstr ""
+
+#: page-header/functions/global-locations.php:89
+msgid "404 template"
+msgstr ""
+
+#: page-header/functions/global-locations.php:98
+msgid "Custom Post Types - Single Posts"
+msgstr ""
+
+#: page-header/functions/global-locations.php:118
+msgid "Custom Post Types - Archives"
+msgstr ""
+
+#: page-header/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: page-header/functions/ie.php:19
+msgid "Delete Page Header Settings"
+msgstr ""
+
+#: page-header/functions/ie.php:56
+msgid "Export Page Header Settings"
+msgstr ""
+
+#: page-header/functions/metabox.php:156
+msgid "Image"
+msgstr ""
+
+#: page-header/functions/metabox.php:157
+msgid "Content"
+msgstr ""
+
+#: page-header/functions/metabox.php:158
+msgid "Background Video"
+msgstr ""
+
+#: page-header/functions/metabox.php:160
+msgid "Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:162
+msgid "Advanced"
+msgstr ""
+
+#: page-header/functions/metabox.php:166
+msgid "Add to excerpt"
+msgstr ""
+
+#: page-header/functions/metabox.php:182
+msgid ""
+"Currently using your <a href=\"#\" class=\"generate-featured-image"
+"\">featured image</a>."
+msgstr ""
+
+#: page-header/functions/metabox.php:193
+msgid "Page Header Image"
+msgstr ""
+
+#: page-header/functions/metabox.php:193
+msgid "Insert Image"
+msgstr ""
+
+#: page-header/functions/metabox.php:194
+msgid "Choose Image"
+msgstr ""
+
+#: page-header/functions/metabox.php:197
+msgid "Remove Image"
+msgstr ""
+
+#: page-header/functions/metabox.php:202
+msgid "Or you can <a href=\"#\">set the featured image</a>."
+msgstr ""
+
+#: page-header/functions/metabox.php:207
+msgid "Image link"
+msgstr ""
+
+#: page-header/functions/metabox.php:212
+msgid "Resize image"
+msgstr ""
+
+#: page-header/functions/metabox.php:214
+msgid "Disable"
+msgstr ""
+
+#: page-header/functions/metabox.php:215
+msgid "Enable"
+msgstr ""
+
+#: page-header/functions/metabox.php:221
+msgid "Image width"
+msgstr ""
+
+#: page-header/functions/metabox.php:226
+msgid "Image height"
+msgstr ""
+
+#: page-header/functions/metabox.php:229
+msgid "Use \"0\" or leave blank for proportional resizing."
+msgstr ""
+
+#: page-header/functions/metabox.php:238
+msgid "HTML and shortcodes allowed."
+msgstr ""
+
+#: page-header/functions/metabox.php:243
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: page-header/functions/metabox.php:248
+msgid "Add padding"
+msgstr ""
+
+#: page-header/functions/metabox.php:253
+msgid "Add background image"
+msgstr ""
+
+#: page-header/functions/metabox.php:258
+msgid "Use background color as overlay"
+msgstr ""
+
+#: page-header/functions/metabox.php:263
+msgid "Parallax effect"
+msgstr ""
+
+#: page-header/functions/metabox.php:268
+msgid "Fullscreen"
+msgstr ""
+
+#: page-header/functions/metabox.php:273
+msgid "Vertical center content"
+msgstr ""
+
+#: page-header/functions/metabox.php:280
+msgid "Container type"
+msgstr ""
+
+#: page-header/functions/metabox.php:282
+msgid "Contained"
+msgstr ""
+
+#: page-header/functions/metabox.php:283
+msgid "Full width"
+msgstr ""
+
+#: page-header/functions/metabox.php:288
+msgid "Text alignment"
+msgstr ""
+
+#: page-header/functions/metabox.php:290
+msgid "Left"
+msgstr ""
+
+#: page-header/functions/metabox.php:291
+msgid "Center"
+msgstr ""
+
+#: page-header/functions/metabox.php:292
+msgid "Right"
+msgstr ""
+
+#: page-header/functions/metabox.php:297
+msgid "Top/Bottom padding"
+msgstr ""
+
+#: page-header/functions/metabox.php:308
+msgid "Background color"
+msgstr ""
+
+#: page-header/functions/metabox.php:313
+msgid "Text color"
+msgstr ""
+
+#: page-header/functions/metabox.php:318
+msgid "Link color"
+msgstr ""
+
+#: page-header/functions/metabox.php:323
+msgid "Link color hover"
+msgstr ""
+
+#: page-header/functions/metabox.php:333
+msgid "MP4 file"
+msgstr ""
+
+#: page-header/functions/metabox.php:335
+#: page-header/functions/metabox.php:343
+#: page-header/functions/metabox.php:351
+msgid "Page Header Video"
+msgstr ""
+
+#: page-header/functions/metabox.php:335
+#: page-header/functions/metabox.php:343
+#: page-header/functions/metabox.php:351
+msgid "Insert Video"
+msgstr ""
+
+#: page-header/functions/metabox.php:336
+#: page-header/functions/metabox.php:344
+#: page-header/functions/metabox.php:352
+msgid "Choose Video"
+msgstr ""
+
+#: page-header/functions/metabox.php:341
+msgid "OGV file"
+msgstr ""
+
+#: page-header/functions/metabox.php:349
+msgid "WEBM file"
+msgstr ""
+
+#: page-header/functions/metabox.php:357
+msgid "Overlay color"
+msgstr ""
+
+#: page-header/functions/metabox.php:373
+msgid "Overwrite your site-wide logo/header on this page."
+msgstr ""
+
+#: page-header/functions/metabox.php:383
+msgid "Header / Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:383
+#: page-header/functions/metabox.php:422
+msgid "Insert Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:384
+#: page-header/functions/metabox.php:423
+msgid "Choose Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:395
+#: page-header/functions/metabox.php:435
+msgid "Remove Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:412
+msgid "Overwrite your navigation logo on this page."
+msgstr ""
+
+#: page-header/functions/metabox.php:422
+msgid "Navigation Logo"
+msgstr ""
+
+#: page-header/functions/metabox.php:445
+msgid "Merge with site header"
+msgstr ""
+
+#: page-header/functions/metabox.php:451
+msgid "Place content behind header (sliders etc..)"
+msgstr ""
+
+#: page-header/functions/metabox.php:456
+msgid "Site title"
+msgstr ""
+
+#: page-header/functions/metabox.php:461
+msgid "Site tagline"
+msgstr ""
+
+#: page-header/functions/metabox.php:466
+msgid "Transparent navigation"
+msgstr ""
+
+#: page-header/functions/metabox.php:472
+msgid "Navigation text"
+msgstr ""
+
+#: page-header/functions/metabox.php:477
+msgid "Navigation background hover"
+msgstr ""
+
+#: page-header/functions/metabox.php:482
+msgid "Navigation text hover"
+msgstr ""
+
+#: page-header/functions/metabox.php:487
+msgid "Navigation background current"
+msgstr ""
+
+#: page-header/functions/metabox.php:492
+msgid "Navigation text current"
+msgstr ""
+
+#: page-header/functions/post-type.php:14
+msgctxt "Post Type General Name"
+msgid "Page Headers"
+msgstr ""
+
+#: page-header/functions/post-type.php:15
+msgctxt "Post Type Singular Name"
+msgid "Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:16
+msgid "Page Headers"
+msgstr ""
+
+#: page-header/functions/post-type.php:18
+msgid "Page Header Archives"
+msgstr ""
+
+#: page-header/functions/post-type.php:19
+msgid "Parent Page Header:"
+msgstr ""
+
+#: page-header/functions/post-type.php:20
+msgid "All Page Headers"
+msgstr ""
+
+#: page-header/functions/post-type.php:21
+msgid "Add New Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:22
+msgid "New Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:23
+msgid "Edit Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:24
+msgid "Update Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:25
+msgid "View Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:26
+msgid "Search Page Header"
+msgstr ""
+
+#: page-header/functions/post-type.php:27
+msgid "Insert into page header"
+msgstr ""
+
+#: page-header/functions/post-type.php:28
+msgid "Uploaded to this page header"
+msgstr ""

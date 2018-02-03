@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Disable Elements\n"
+"POT-Creation-Date: 2017-06-20 00:27-0300\n"
+"PO-Revision-Date: 2017-06-20 00:28-0300\n"
+"Last-Translator: Jorge Araújo <artesetedigital@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: disable-elements\n"
+
+#: disable-elements/functions/functions.php:90
+msgid "Disable Elements"
+msgstr "Desabilitar Elementos"
+
+#: disable-elements/functions/functions.php:121
+#: disable-elements/functions/functions.php:123
+msgid "Top Bar"
+msgstr "Barra do Topo"
+
+#: disable-elements/functions/functions.php:127
+#: disable-elements/functions/functions.php:129
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: disable-elements/functions/functions.php:132
+#: disable-elements/functions/functions.php:134
+msgid "Primary Navigation"
+msgstr "Menu Principal"
+
+#: disable-elements/functions/functions.php:138
+#: disable-elements/functions/functions.php:140
+msgid "Secondary Navigation"
+msgstr "Menu Secundário"
+
+#: disable-elements/functions/functions.php:144
+#: disable-elements/functions/functions.php:146
+msgid "Featured Image / Page Header"
+msgstr "Imagem Destaque / Page Header"
+
+#: disable-elements/functions/functions.php:149
+#: disable-elements/functions/functions.php:151
+msgid "Content Title"
+msgstr "Título do Conteúdo"
+
+#: disable-elements/functions/functions.php:154
+#: disable-elements/functions/functions.php:156
+msgid "Footer"
+msgstr "Rodapé"

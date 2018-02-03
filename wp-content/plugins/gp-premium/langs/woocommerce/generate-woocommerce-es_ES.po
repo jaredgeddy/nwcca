@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Generate WooCommerce\n"
+"POT-Creation-Date: 2017-06-22 15:56-0300\n"
+"PO-Revision-Date: 2017-08-07 19:45-0300\n"
+"Language-Team: Caribdis.Net <info@caribdis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../../woocommerce\n"
+"X-Poedit-WPHeader: woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Caribdis.Net <info@caribdis.net>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions/customizer/customizer.php:42
+#: functions/customizer/customizer.php:708
+#: functions/customizer/customizer.php:718
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: functions/customizer/customizer.php:56
+msgid "General"
+msgstr "General"
+
+#: functions/customizer/customizer.php:75
+msgid "Display cart in menu"
+msgstr "Mostrar carrito en el menú"
+
+#: functions/customizer/customizer.php:94
+msgid "Display breadcrumbs"
+msgstr "Mostrar migas de pan"
+
+#: functions/customizer/customizer.php:107
+msgid "Shop"
+msgstr "Tienda"
+
+#: functions/customizer/customizer.php:126
+#: functions/customizer/customizer.php:546
+msgid "Sidebar Layout"
+msgstr "Diseño de barra lateral"
+
+#: functions/customizer/customizer.php:129
+#: functions/customizer/customizer.php:550
+msgid "Sidebar / Content"
+msgstr "Barra lateral / Contenido"
+
+#: functions/customizer/customizer.php:130
+#: functions/customizer/customizer.php:551
+msgid "Content / Sidebar"
+msgstr "Contenido / Barra lateral"
+
+#: functions/customizer/customizer.php:131
+#: functions/customizer/customizer.php:552
+msgid "Content (no sidebars)"
+msgstr "Contenido (sin barras laterales)"
+
+#: functions/customizer/customizer.php:132
+#: functions/customizer/customizer.php:553
+msgid "Sidebar / Content / Sidebar"
+msgstr "Barra lateral / Contenido / Barra lateral"
+
+#: functions/customizer/customizer.php:133
+#: functions/customizer/customizer.php:554
+msgid "Sidebar / Sidebar / Content"
+msgstr "Barra lateral / Barra lateral / Contenido"
+
+#: functions/customizer/customizer.php:134
+#: functions/customizer/customizer.php:555
+msgid "Content / Sidebar / Sidebar"
+msgstr "Contenido / Barra lateral / Barra lateral"
+
+#: functions/customizer/customizer.php:153
+#: functions/customizer/customizer.php:262
+msgid "Products Per Page"
+msgstr "Productos por página"
+
+#: functions/customizer/customizer.php:191
+msgid "Product Columns"
+msgstr "Columnas de productos"
+
+#: functions/customizer/customizer.php:238
+msgid "Image Alignment"
+msgstr "Alineación de la imagen"
+
+#: functions/customizer/customizer.php:241
+#: functions/customizer/customizer.php:284
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions/customizer/customizer.php:242
+#: functions/customizer/customizer.php:285
+msgid "Center"
+msgstr "Centro"
+
+#: functions/customizer/customizer.php:243
+#: functions/customizer/customizer.php:286
+msgid "Right"
+msgstr "Derecha"
+
+#: functions/customizer/customizer.php:281
+msgid "Text Alignment"
+msgstr "Alineacion del texto"
+
+#: functions/customizer/customizer.php:305
+msgid "Display page title"
+msgstr "Mostrar título de página"
+
+#: functions/customizer/customizer.php:324
+msgid "Display product results count"
+msgstr "Mostrar número de resultados de producto"
+
+#: functions/customizer/customizer.php:343
+msgid "Display product sorting"
+msgstr "Mostrar orden de producto"
+
+#: functions/customizer/customizer.php:362
+msgid "Display product image"
+msgstr "Mostrar imagen de producto"
+
+#: functions/customizer/customizer.php:381
+msgid "Display secondary image on hover"
+msgstr "Mostrar imagen secundaria al posar el puntero"
+
+#: functions/customizer/customizer.php:400
+msgid "Display product title"
+msgstr "Mostrar título del producto"
+
+#: functions/customizer/customizer.php:419
+msgid "Display sale flash"
+msgstr "Mostrar placa de oferta"
+
+#: functions/customizer/customizer.php:438
+msgid "Sale flash over image"
+msgstr "Mostrar placa de oferta sobre la imagen"
+
+#: functions/customizer/customizer.php:457
+msgid "Display rating"
+msgstr "Mostrar calificación"
+
+#: functions/customizer/customizer.php:476
+msgid "Display price"
+msgstr "Mostrar precio"
+
+#: functions/customizer/customizer.php:495
+msgid "Display add to cart button"
+msgstr "Mostrar el botón añadir al carrito"
+
+#: functions/customizer/customizer.php:514
+#: functions/customizer/customizer.php:699
+msgid "Display short description"
+msgstr "Mostrar descripción corta"
+
+#: functions/customizer/customizer.php:527
+msgid "Single Product"
+msgstr "Producto individual"
+
+#: functions/customizer/customizer.php:549
+msgid "inherit"
+msgstr "heredar"
+
+#: functions/customizer/customizer.php:574
+msgid "Display product tabs"
+msgstr "Mostrar pestañas de producto"
+
+#: functions/customizer/customizer.php:593
+msgid "Display related products"
+msgstr "Mostrar productos relacionados"
+
+#: functions/customizer/customizer.php:612
+msgid "Display upsell products"
+msgstr "Mostrar ventas dirigidas"
+
+#: functions/customizer/customizer.php:641
+msgid "Related/Upsell Columns"
+msgstr "Columnas de relacionados/ventas dirigidas"
+
+#: functions/customizer/customizer.php:680
+msgid "Display product meta data"
+msgstr "Mostrar meta datos de producto"
+
+#: functions/customizer/customizer.php:731
+msgid "Primary button colors"
+msgstr "Colores del botón principal"
+
+#: functions/customizer/customizer.php:732
+msgid "Primary button colors can be set <a href=\"#\">here</a>."
+msgstr ""
+"Los colores del botón principal se pueden asignar <a href=\"#\">aquí</a>."
+
+#: functions/customizer/customizer.php:746
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: functions/customizer/customizer.php:765
+msgid "Distraction-free mode"
+msgstr "Modo de escritura sin distracción"
+
+#: functions/customizer/customizer.php:766
+msgid ""
+"Remove unnecessary distractions like sidebars, footer widgets and sticky "
+"menus."
+msgstr ""
+"Eliminar distracciones innecesarias como menús fijos, widgets del pie de "
+"página y barras laterales."
+
+#: functions/functions.php:310 functions/functions.php:324
+msgid "View your shopping cart"
+msgstr "Ver carrito de compras"
+
+#: functions/functions.php:541
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Calificación %s de 5"
+
+#: functions/functions.php:543
+msgid "Not yet rated"
+msgstr "Aún no calificado"
+
+#: functions/functions.php:548
+msgid "out of 5"
+msgstr "de 5"
+
+#: functions/import-export.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Advertencia: Esto borrará los ajustes."
+
+#: functions/import-export.php:19
+msgid "Delete WooCommerce Settings"
+msgstr "Eliminar ajustes de WooCommerce"
+
+#: functions/import-export.php:56
+msgid "Export WooCommerce Settings"
+msgstr "Exportar ajustes de WooCommerce"

@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2017-03-09 11:42-0800\n"
+"PO-Revision-Date: 2017-10-14 17:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: secondary-nav/functions/functions.php:20
+msgid "Secondary Menu"
+msgstr "Sekundäres Menü"
+
+#: secondary-nav/functions/functions.php:137
+#: secondary-nav/functions/functions.php:146
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: secondary-nav/functions/functions.php:165
+msgid "Mobile Menu Label"
+msgstr "Beschriftung für mobile Navigation"
+
+#: secondary-nav/functions/functions.php:187
+msgid "Navigation Width"
+msgstr "Breite der Navigation"
+
+#: secondary-nav/functions/functions.php:190
+#: secondary-nav/functions/functions.php:216
+msgid "Full"
+msgstr "Volle Breite"
+
+#: secondary-nav/functions/functions.php:191
+#: secondary-nav/functions/functions.php:217
+msgid "Contained"
+msgstr "Enthalten"
+
+#: secondary-nav/functions/functions.php:213
+msgid "Inner Navigation Width"
+msgstr "Innerer Abstand der Navigation"
+
+#: secondary-nav/functions/functions.php:239
+msgid "Navigation Location"
+msgstr "Position der Navigation"
+
+#: secondary-nav/functions/functions.php:242
+msgid "Below Header"
+msgstr "Unter dem Kopfbereich"
+
+#: secondary-nav/functions/functions.php:243
+msgid "Above Header"
+msgstr "Über dem Kopfbereich"
+
+#: secondary-nav/functions/functions.php:244
+msgid "Float Right"
+msgstr "Schwimmend rechts"
+
+#: secondary-nav/functions/functions.php:245
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: secondary-nav/functions/functions.php:246
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: secondary-nav/functions/functions.php:247
+msgid "No Navigation"
+msgstr "Keine Navigation"
+
+#: secondary-nav/functions/functions.php:269
+msgid "Navigation Alignment"
+msgstr "Ausrichtung der Navigation"
+
+#: secondary-nav/functions/functions.php:272
+msgid "Left"
+msgstr "Links"
+
+#: secondary-nav/functions/functions.php:273
+msgid "Center"
+msgstr "Mittig"
+
+#: secondary-nav/functions/functions.php:274
+msgid "Right"
+msgstr "Rechts"
+
+#: secondary-nav/functions/functions.php:295
+msgid "Merge with Secondary Navigation"
+msgstr "Verschmelzen mit sekundärer Navigation"
+
+#: secondary-nav/functions/ie.php:17
+msgid "Warning: This will delete your settings."
+msgstr "Warnung. Die Einstellungen werden gelöscht."
+
+#: secondary-nav/functions/ie.php:19
+msgid "Delete Secondary Nav Settings"
+msgstr "Lösche Einstellungen der sekundären Navigation"
+
+#: secondary-nav/functions/ie.php:55
+msgid "Export Secondary Nav Settings"
+msgstr "Exportiere Einstellungen der sekundären Navigation"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Repeat"
+#~ msgstr "Wiederholen"
+
+#~ msgid "Repeat x"
+#~ msgstr "Wiederholen x"
+
+#~ msgid "Repeat y"
+#~ msgstr "Wiederholen y"
+
+#~ msgid "No Repeat"
+#~ msgstr "Keine Wiederholung"
+
+#~ msgid "Navigation Item Hover"
+#~ msgstr "Navigationselement bei Mauskontakt"
+
+#~ msgid "Navigation Item Current"
+#~ msgstr "Aktives Navigationselement"
+
+#~ msgid "Secondary Sub-Navigation"
+#~ msgstr "Sekundäre Sub-Navigation"
+
+#~ msgid "Sub-Navigation Item"
+#~ msgstr "Sub-Navigationselement"
+
+#~ msgid "Sub-Navigation Item Hover"
+#~ msgstr "Aktives Subnavigationselement bei Mausberührung"
+
+#~ msgid "Sub-Navigation Item Current"
+#~ msgstr "Aktives Subnavigationselement"
+
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Background Hover"
+#~ msgstr "Hintergrund bei Mauskontakt"
+
+#~ msgid "Text Hover"
+#~ msgstr "Text bei Mauskontakt"
+
+#~ msgid "Background Current"
+#~ msgstr "Hintergrund aktuell"
+
+#~ msgid "Text Current"
+#~ msgstr "Text aktuell"
+
+#~ msgid "Secondary Menu Items"
+#~ msgstr "Sekundäre Menüelemente"
+
+#~ msgid "Left/Right Spacing"
+#~ msgstr "Linker/Rechter Abstand"
+
+#~ msgid "Height"
+#~ msgstr "Höhe"
+
+#~ msgid "Sub-Menu Item Height"
+#~ msgstr "Sub-Menü Elementenhöhe"
+
+#~ msgid "The top and bottom spacing of sub-menu items."
+#~ msgstr "Der oberen und unteren Abstand der Sub-Menüelemente."
+
+#~ msgid "Secondary navigation"
+#~ msgstr "Sekundäre Navigation"
+
+#~ msgid "Font weight"
+#~ msgstr "Schriftschnitt"
+
+#~ msgid "Text transform"
+#~ msgstr "Text Umwandlung"
+
+#~ msgid "Font size"
+#~ msgstr "Schriftgröße"
+
+#~ msgid "Navigation Layout"
+#~ msgstr "Layout der Navigation"
+
+#~ msgid "Fluid / Full Width"
+#~ msgstr "Flexible / volle Breite"
+
+#~ msgid "Mobile Label"
+#~ msgstr "Beschriftung für mobile Navigation"
+
+#~ msgid "Secondary Navigation Spacing"
+#~ msgstr "Abstände der sekundären Navigation"
+
+#~ msgid "These options control the size of your secondary menu items."
+#~ msgstr "Diese Optionen steuern die Größe Ihrer sekundären Menü-Elemente."
+
+#~ msgid "Secondary Sub-menu Item Height"
+#~ msgstr "Höhe der sekundären Untermenü-Elemente"
+
+#~ msgid "The top and bottom spacing of secondary sub-menu items."
+#~ msgstr ""
+#~ "Der oberen und unteren Abstand der sekundären untergeordneten "
+#~ "Menüelemente."
+
+#~ msgid "Secondary Navigation Colors"
+#~ msgstr "Farben der sekundären Navigation"
+
+#~ msgid "Secondary Sub-Navigation Colors"
+#~ msgstr "Farben der sekundären Subnavigation"
+
+#~ msgid "Secondary Navigation Typography"
+#~ msgstr "Schriftart der sekundären Subnavigation"
+
+#~ msgid "Secondary Background Images"
+#~ msgstr "Sekundäre Hintergrundbilder"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Neue Version von %1$s verfügbar. <a target=\\“_blank\\“ class=\\“thickbox"
+#~ "\\“ href=\\“%2$s\\“>Details zu Version %3$s anzeigen</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Neue Version von %1$s verfügbar. <a target=\"_blank\" class=\"thickbox\" "
+#~ "href=\"%2$s\">Details zu Version %3$s anzeigen</a> oder <a href=\"%4$s"
+#~ "\">Jetzt updaten</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "Skip to content"
+#~ msgstr "Direkt zum Inhalt"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail "
+#~ "mit der Du bezahlt hast."
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "E-Mail deaktivieren"
+
+#~ msgid "Activate Email"
+#~ msgstr "E-Mail aktivieren"
+
+#~ msgid "Save Email"
+#~ msgstr "E-Mail speichern"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Alle Updates aktivieren"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Updates deaktivieren"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Updates aktivieren"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr ""
+#~ "Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+#~ "Aufzeichnungen vorhanden."
+
+#~ msgid "Email activated."
+#~ msgstr "E-Mail aktiviert."
+
+#~ msgid "Email deactivated."
+#~ msgstr "E-Mail deaktiviert."
+
+#~ msgid "License failed."
+#~ msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#~ msgid "License activated."
+#~ msgstr "Lizenz aktiviert."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Lizenzen aktiviert."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivierung ist fehlgeschlagen."
+
+#~ msgid "License deactivated."
+#~ msgstr "Lizenz deaktiviert."

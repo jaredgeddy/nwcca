@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Hooks\n"
+"POT-Creation-Date: 2017-06-20 10:46+0100\n"
+"PO-Revision-Date: 2017-06-20 10:47+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: langs\n"
+"X-Poedit-SearchPath-1: hooks\n"
+
+#: hooks/functions/functions.php:24
+msgid ""
+"DISALLOW_FILE_EDIT is defined. You should also disallow PHP execution in GP "
+"Hooks."
+msgstr ""
+"Está definido DISALLOW_FILE_EDIT. Deverá também desactivar a execução de "
+"PHP nos hooks do GP."
+
+#: hooks/functions/functions.php:25
+msgid "Learn how"
+msgstr "Saiba como"
+
+#: hooks/functions/functions.php:79 hooks/functions/functions.php:99
+#: hooks/functions/functions.php:350
+msgid "GP Hooks"
+msgstr "Hooks do GP"
+
+#: hooks/functions/functions.php:115
+msgid "wp_head"
+msgstr "wp_head"
+
+#: hooks/functions/functions.php:121
+msgid "Before Header"
+msgstr "Antes do cabeçalho"
+
+#: hooks/functions/functions.php:127
+msgid "Before Header Content"
+msgstr "Antes do conteúdo do cabeçalho"
+
+#: hooks/functions/functions.php:133
+msgid "After Header Content"
+msgstr "Depois do conteúdo do cabeçalho"
+
+#: hooks/functions/functions.php:139
+msgid "After Header"
+msgstr "Depois do cabeçalho"
+
+#: hooks/functions/functions.php:145
+msgid "Inside Content Container"
+msgstr "Dentro do contentor do conteúdo"
+
+#: hooks/functions/functions.php:151
+msgid "Before Content"
+msgstr "Antes do conteúdo"
+
+#: hooks/functions/functions.php:157
+msgid "After Entry Title"
+msgstr "Depois do título"
+
+#: hooks/functions/functions.php:163
+msgid "After Content"
+msgstr "Depois do conteúdo"
+
+#: hooks/functions/functions.php:169
+msgid "Before Right Sidebar Content"
+msgstr "Antes do conteúdo da barra direita"
+
+#: hooks/functions/functions.php:175
+msgid "After Right Sidebar Content"
+msgstr "Depois do conteúdo da barra direita"
+
+#: hooks/functions/functions.php:181
+msgid "Before Left Sidebar Content"
+msgstr "Antes do conteúdo da barra esquerda"
+
+#: hooks/functions/functions.php:187
+msgid "After Left Sidebar Content"
+msgstr "Depois do conteúdo da barra esquerda"
+
+#: hooks/functions/functions.php:193
+msgid "Before Footer"
+msgstr "Antes do rodapé"
+
+#: hooks/functions/functions.php:199
+msgid "After Footer Widgets"
+msgstr "Depois dos widgets do rodapé"
+
+#: hooks/functions/functions.php:205
+msgid "Before Footer Content"
+msgstr "Antes do conteúdo do rodapé"
+
+#: hooks/functions/functions.php:211
+msgid "After Footer Content"
+msgstr "Depois do conteúdo do rodapé"
+
+#: hooks/functions/functions.php:217
+msgid "wp_footer"
+msgstr "wp_footer"
+
+#: hooks/functions/functions.php:302
+msgid "Execute PHP"
+msgstr "Executar PHP"
+
+#: hooks/functions/functions.php:304
+msgid "Disable Hook"
+msgstr "Desactivar hook"
+
+#: hooks/functions/functions.php:352
+msgid ""
+"Use these fields to insert anything you like throughout GeneratePress. "
+"Shortcodes are allowed, and you can even use PHP if you check the Execute "
+"PHP checkboxes."
+msgstr ""
+"Use estes campos para inserir qualquer coisa no GeneratePress. Pode usar "
+"shortcodes, ou pode usar PHP se a respectiva caixa de selecção Executar PHP "
+"estiver seleccionada."
+
+#: hooks/functions/functions.php:354
+msgid "Show all"
+msgstr "Mostrar todos"
+
+#: hooks/functions/functions.php:365
+msgid "Save Hooks"
+msgstr "Guardar hooks"
+
+#: hooks/functions/functions.php:435
+msgid "Hooks saved."
+msgstr "Hooks guardados."
+
+#: hooks/functions/ie.php:59
+msgid "Export GP Hooks"
+msgstr "Exportar hooks do GP"
+
+#: hooks/functions/ie.php:109
+msgid "Warning: This will delete your settings."
+msgstr "Aviso: Isto irá eliminar as suas configurações."
+
+#: hooks/functions/ie.php:111
+msgid "Delete GP Hooks"
+msgstr "Eliminar hooks do GP"
