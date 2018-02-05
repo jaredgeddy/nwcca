@@ -8,3 +8,55 @@
  Version:      0.1
 */
 
+.entry-content, .entry-summary, .page-content {
+	margin-top:0px;
+}
+.color-nwcca-gold {
+	color: #b49b56;
+}
+.top-bar-left-content {
+	float:left;
+	display:block;
+	font-weight:700;
+}
+.top-bar-left-content .label-question {
+	color:#b49b56;
+}
+.top-bar-left-content p {
+	float:left;
+	margin-right:15px;
+	margin-bottom:0px;
+}
+.top-bar-right-content {
+	float:right;
+	display:block;
+	font-weight:700;
+}
+.top-bar-right-content a {
+	color: #003258;
+
+}
+.top-bar-right-content a:hover {
+	color: #b49b56;
+}
+.inside-site-info.grid-container.grid-parent {
+	border-top:1px solid #fff;
+	padding:20px 0px 0px;
+}
+a.home-banner-tile-btn {
+	color:#fff;
+	font-weight:700;
+}
+a.home-banner-tile-btn:hover {
+	color: #003258;
+	text-decoration:none;
+}
+#primary-menu.main-nav a:active, #primary-menu.main-nav a:hover, .current-menu-item{
+	border-bottom:4px solid #b49b56;
+}
+
+/* About Page CSS */
+
+.board-of-directors-name, .board-of-directors-title {
+  margin:0px;
+}
