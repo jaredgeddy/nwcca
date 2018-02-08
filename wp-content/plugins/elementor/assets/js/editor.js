@@ -1,4 +1,4 @@
-/*! elementor - v1.9.3 - 21-01-2018 */
+/*! elementor - v1.9.4 - 07-02-2018 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 module.exports = Marionette.Behavior.extend( {
 	previewWindow: null,
@@ -7,6 +7,7 @@ module.exports = Marionette.Behavior.extend( {
 		return {
 			buttonPreview: '#elementor-panel-saver-button-preview',
 			buttonPublish: '#elementor-panel-saver-button-publish',
+			buttonSaveOptions: '#elementor-panel-saver-button-save-options',
 			buttonPublishLabel: '#elementor-panel-saver-button-publish-label',
 			menuSaveDraft: '#elementor-panel-saver-menu-save-draft',
 			lastEditedWrapper: '.elementor-last-edited-wrapper'
@@ -29,6 +30,13 @@ module.exports = Marionette.Behavior.extend( {
 			.on( 'page:status:change', this.onPageStatusChange );
 
 		elementor.settings.page.model.on( 'change', this.onPageSettingsChange.bind( this ) );
+
+		elementor.channels.editor.on( 'status:change', this.activateSaveButtons.bind( this ) );
+	},
+
+	activateSaveButtons: function( hasChanges ) {
+		this.ui.buttonPublish.add( this.ui.menuSaveDraft ).toggleClass( 'elementor-saver-disabled', ! hasChanges );
+		this.ui.buttonSaveOptions.toggleClass( 'elementor-saver-disabled', ! hasChanges );
 	},
 
 	onRender: function() {
@@ -112,6 +120,10 @@ module.exports = Marionette.Behavior.extend( {
 	},
 
 	onClickButtonPublish: function() {
+		if ( ! elementor.saver.isEditorChanged() ) {
+			return;
+		}
+
 		var postStatus = elementor.settings.page.model.get( 'post_status' );
 		switch ( postStatus ) {
 			case 'publish':
@@ -966,7 +978,10 @@ TemplateLibraryManager = function() {
 		if ( ! modal ) {
 			modal = elementor.dialogsManager.createWidget( 'lightbox', {
 				id: 'elementor-template-library-modal',
-				closeButton: false
+				closeButton: false,
+				hide: {
+					onOutsideClick: false
+				}
 			} );
 		}
 
@@ -2937,7 +2952,7 @@ module.exports = ControlSelect2View.extend( {
 
 			_.each( fonts, function( fontType, fontName ) {
 				if ( _.isArray( groups ) && _.contains( groups, fontType ) || fontType === groups ) {
-					filteredFonts[ fontName ] = fontType;
+					filteredFonts[ fontName ] = fontName;
 				}
 			} );
 
@@ -9546,6 +9561,8 @@ helpers = {
 			elementor.$previewContents.find( 'link:last' ).after( '<link href="' + fontUrl + '" rel="stylesheet" type="text/css">' );
 		}
 		this._enqueuedFonts.push( font );
+
+		elementor.channels.editor.trigger( 'font:insertion', fontType, font );
 	},
 
 	getElementChildType: function( elementType, container ) {
