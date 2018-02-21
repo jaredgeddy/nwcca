@@ -45,7 +45,7 @@ class Number extends Field_Base {
 
 		$min_fields = [
 			'name' => 'field_min',
-			'label' => __( 'Min Value', 'elementor-pro' ),
+			'label' => __( 'Min. Value', 'elementor-pro' ),
 			'type' => Controls_Manager::NUMBER,
 			'condition' => [
 				'field_type' => $this->get_type(),
@@ -57,7 +57,7 @@ class Number extends Field_Base {
 
 		$max_fields = [
 			'name' => 'field_max',
-			'label' => __( 'Max Value', 'elementor-pro' ),
+			'label' => __( 'Max. Value', 'elementor-pro' ),
 			'type' => Controls_Manager::NUMBER,
 			'condition' => [
 				'field_type' => $this->get_type(),

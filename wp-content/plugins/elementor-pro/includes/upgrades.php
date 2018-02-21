@@ -220,7 +220,7 @@ class Upgrades {
 		];
 
 		foreach ( $upgrades as $version => $function ) {
-			if ( version_compare( $elementor_pro_version, $version, '<' ) && ! isset( $elementor_upgrades[ $version ] ) ) {
+			if ( version_compare( $elementor_pro_version, $version, '<' ) && ! isset( $elementor_pro_upgrades[ $version ] ) ) {
 				self::$function();
 				$elementor_pro_upgrades[ $version ] = true;
 				update_option( 'elementor_pro_upgrades', $elementor_pro_upgrades );

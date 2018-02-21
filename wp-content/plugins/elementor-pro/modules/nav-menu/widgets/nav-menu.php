@@ -35,6 +35,12 @@ class Nav_Menu extends Widget_Base {
 		return [ 'smartmenus' ];
 	}
 
+	public function on_export( $element ) {
+		unset( $element['settings']['menu'] );
+
+		return $element;
+	}
+
 	protected function get_nav_menu_index() {
 		return $this->nav_menu_index++;
 	}

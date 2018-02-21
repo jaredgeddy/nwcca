@@ -51,7 +51,7 @@ class Date extends Field_Base {
 
 		$min_date = [
 			'name' => 'min_date',
-			'label' => __( 'Min Date', 'elementor-pro' ),
+			'label' => __( 'Min. Date', 'elementor-pro' ),
 			'type' => Controls_Manager::DATE_TIME,
 			'condition' => [
 				'field_type' => $this->get_type(),
@@ -67,7 +67,7 @@ class Date extends Field_Base {
 
 		$max_date = [
 			'name' => 'max_date',
-			'label' => __( 'Max Date', 'elementor-pro' ),
+			'label' => __( 'Max. Date', 'elementor-pro' ),
 			'type' => Controls_Manager::DATE_TIME,
 			'condition' => [
 				'field_type' => $this->get_type(),

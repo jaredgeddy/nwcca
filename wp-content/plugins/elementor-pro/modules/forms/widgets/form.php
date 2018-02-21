@@ -7,6 +7,7 @@ use Elementor\Group_Control_Typography;
 use Elementor\Repeater;
 use Elementor\Scheme_Color;
 use Elementor\Scheme_Typography;
+use ElementorPro\Classes\Utils;
 use ElementorPro\Modules\Forms\Classes\Ajax_Handler;
 use ElementorPro\Modules\Forms\Classes\Form_Base;
 use ElementorPro\Modules\Forms\Module;
@@ -1185,7 +1186,7 @@ class Form extends Form_Base {
 
 		?>
 		<form class="elementor-form" method="post" <?php echo $this->get_render_attribute_string( 'form' ); ?>>
-			<input type="hidden" name="post_id" value="<?php echo get_the_ID() ?>" />
+			<input type="hidden" name="post_id" value="<?php echo Utils::get_current_post_id() ?>" />
 			<input type="hidden" name="form_id" value="<?php echo $this->get_id() ?>" />
 
 			<div <?php echo $this->get_render_attribute_string( 'wrapper' ); ?>>

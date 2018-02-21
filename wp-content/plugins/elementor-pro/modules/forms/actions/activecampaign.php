@@ -228,6 +228,10 @@ class Activecampaign extends Classes\Integration_Base {
 			$subscriber['tags'] = $form_settings['activecampaign_tags'];
 		}
 
+		if ( isset( $form_settings['form_id'] ) && ! empty( $form_settings['form_id'] ) ) {
+			$subscriber['form'] = $form_settings['form_id'];
+		}
+
 		return $subscriber;
 	}
 

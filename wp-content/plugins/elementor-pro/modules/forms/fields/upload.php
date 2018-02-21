@@ -36,7 +36,7 @@ class Upload extends Field_Base {
 
 		$file_size = [
 			'name' => 'file_sizes',
-			'label' => __( 'Max File Size', 'elementor-pro' ),
+			'label' => __( 'Max. File Size', 'elementor-pro' ),
 			'type' => Controls_Manager::SELECT,
 			'condition' => [
 				'field_type' => $this->get_type(),
@@ -75,7 +75,7 @@ class Upload extends Field_Base {
 
 		$multiple_files_max = [
 			'name' => 'max_files',
-			'label' => __( 'Max Files', 'elementor-pro' ),
+			'label' => __( 'Max. Files', 'elementor-pro' ),
 			'type' => Controls_Manager::NUMBER,
 			'condition' => [
 				'field_type' => $this->get_type(),

@@ -99,6 +99,18 @@ class Getresponse extends Integration_Base {
 		);
 
 		$widget->add_control(
+			'getresponse_dayofcycle',
+			[
+				'label' => __( 'Day Of Cycle', 'elementor-pro' ),
+				'type' => Controls_Manager::NUMBER,
+				'min' => 0,
+				'condition' => [
+					'getresponse_list!' => '',
+				],
+			]
+		);
+
+		$widget->add_control(
 			'getresponse_fields_map',
 			[
 				'label' => __( 'Field Mapping', 'elementor-pro' ),
@@ -179,6 +191,9 @@ class Getresponse extends Integration_Base {
 			return false;
 		}
 
+		if ( isset( $form_settings['getresponse_dayofcycle'] ) ) {
+			$subscriber['dayOfCycle'] = intval( $form_settings['getresponse_dayofcycle'] );
+		}
 		$subscriber['ipAddress'] = Utils::get_client_ip();
 		$subscriber['campaign'] = [ 'campaignId' => $form_settings['getresponse_list'] ];
 

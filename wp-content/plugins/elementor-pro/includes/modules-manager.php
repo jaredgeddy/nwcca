@@ -14,8 +14,10 @@ final class Manager {
 	public function __construct() {
 		$modules = [
 			'query-control',
+			'css-filter-control',
 			'custom-css',
 			'global-widget',
+			'assets-manager',
 
 			// Modules with Widgets.
 			'posts',
@@ -25,7 +27,7 @@ final class Manager {
 			'animated-headline',
 			'pricing',
 			'flip-box',
-			//'hover-box',
+			'call-to-action',
 			'carousel',
 			'countdown',
 			'share-buttons',

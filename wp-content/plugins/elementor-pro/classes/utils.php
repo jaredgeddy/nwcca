@@ -1,6 +1,8 @@
 <?php
 namespace ElementorPro\Classes;
 
+use ElementorPro\Plugin;
+
 if ( ! defined( 'ABSPATH' ) )  exit; // Exit if accessed directly
 
 class Utils {
@@ -28,5 +30,13 @@ class Utils {
 
 	public static function get_site_domain() {
 		return str_ireplace( 'www.', '', parse_url( home_url(), PHP_URL_HOST ) );
+	}
+
+	public static function get_current_post_id() {
+		if ( isset( Plugin::elementor()->documents ) ) {
+			return Plugin::elementor()->documents->get_current()->get_main_id();
+		}
+
+		return get_the_ID();
 	}
 }

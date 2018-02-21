@@ -32,9 +32,8 @@
 	display:block;
 	font-weight:700;
 }
-.top-bar-right-content a {
-	color: #003258;
-
+.top-bar-right-content a, .top-bar-right-content a:visited {
+	color: #003962;
 }
 .top-bar-right-content a:hover {
 	color: #b49b56;
@@ -51,12 +50,53 @@ a.home-banner-tile-btn:hover {
 	color: #003258;
 	text-decoration:none;
 }
-#primary-menu.main-nav a:active, #primary-menu.main-nav a:hover, .current-menu-item{
+#primary-menu.main-nav li:hover, .current-menu-item{
 	border-bottom:4px solid #b49b56;
+}
+#primary-menu.main-nav a:hover {
+	text-decoration:none;
 }
 
 /* About Page CSS */
 
 .board-of-directors-name, .board-of-directors-title {
   margin:0px;
+}
+
+/* Related Associations CSS */
+
+
+.dropdown-ra {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-ra-content {
+	overflow:hidden;
+	max-height:0;
+	-webkit-transition:max-height 500ms ease;
+	-moz-transition:max-height 500ms ease;
+	-o-transition:max-height 500ms ease;
+	transition:max-height 500ms ease;
+}
+
+.dropdown-ra:hover .dropdown-ra-content {
+    max-height:1000px;
+}
+
+.ra-website-link {
+	width: 110%;
+	color: #fff;
+	font-weight: 700;
+	text-align: center;
+	background: #b49b56;
+	padding: 20px;
+	display: inline-block;
+	margin: 15px -15px -15px -15px;
+}
+
+.ra-website-link:hover {
+	color:#fff;
+	text-decoration: none;
+	background:#12395f;
 }

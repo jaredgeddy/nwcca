@@ -41,7 +41,7 @@ class Form_Record {
 	public function validate( $ajax_handler ) {
 		foreach ( $this->fields as $id => $field ) {
 			$field_type = $field['type'];
-			if ( ! empty( $field['required'] ) && empty( $field['value'] ) && 'upload' !== $field_type ) {
+			if ( ! empty( $field['required'] ) && '' === $field['value'] && 'upload' !== $field_type ) {
 				$ajax_handler->add_error( $id, Ajax_Handler::get_default_message( Ajax_Handler::FIELD_REQUIRED, $this->form_settings ) );
 			}
 

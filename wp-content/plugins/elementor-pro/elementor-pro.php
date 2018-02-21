@@ -4,7 +4,7 @@
  * Description: Elementor Pro adds new features to the Elementor Page Builder plugin. Control your conversions, your user engagement, your entire website, from one page builder.
  * Plugin URI: https://elementor.com/
  * Author: Elementor.com
- * Version: 1.13.2
+ * Version: 1.15.0
  * Author URI: https://elementor.com/
  *
  * Text Domain: elementor-pro
@@ -12,8 +12,8 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
-define( 'ELEMENTOR_PRO_VERSION', '1.13.2' );
-define( 'ELEMENTOR_PRO_PREVIOUS_STABLE_VERSION', '1.12.3' );
+define( 'ELEMENTOR_PRO_VERSION', '1.15.0' );
+define( 'ELEMENTOR_PRO_PREVIOUS_STABLE_VERSION', '1.14.2' );
 
 define( 'ELEMENTOR_PRO__FILE__', __FILE__ );
 define( 'ELEMENTOR_PRO_PLUGIN_BASE', plugin_basename( ELEMENTOR_PRO__FILE__ ) );

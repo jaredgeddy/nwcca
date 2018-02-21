@@ -1,4 +1,4 @@
-/*! elementor - v1.9.4 - 07-02-2018 */
+/*! elementor - v1.9.5 - 14-02-2018 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 module.exports = Marionette.Behavior.extend( {
 	previewWindow: null,
@@ -35,6 +35,8 @@ module.exports = Marionette.Behavior.extend( {
 	},
 
 	activateSaveButtons: function( hasChanges ) {
+		var hasChanges = hasChanges || 'draft' === elementor.settings.page.model.get( 'post_status' );
+
 		this.ui.buttonPublish.add( this.ui.menuSaveDraft ).toggleClass( 'elementor-saver-disabled', ! hasChanges );
 		this.ui.buttonSaveOptions.toggleClass( 'elementor-saver-disabled', ! hasChanges );
 	},
@@ -120,11 +122,12 @@ module.exports = Marionette.Behavior.extend( {
 	},
 
 	onClickButtonPublish: function() {
-		if ( ! elementor.saver.isEditorChanged() ) {
+		var postStatus = elementor.settings.page.model.get( 'post_status' );
+
+		if ( ! elementor.saver.isEditorChanged() && 'draft' !== postStatus ) {
 			return;
 		}
 
-		var postStatus = elementor.settings.page.model.get( 'post_status' );
 		switch ( postStatus ) {
 			case 'publish':
 			case 'private':
@@ -164,6 +167,8 @@ module.exports = Marionette.Behavior.extend( {
 				if ( ! elementor.config.current_user_can_publish ) {
 					publishLabel = 'submit';
 				}
+
+				this.activateSaveButtons( true );
 				break;
 			case 'pending': // User cannot change post status
 			case undefined: // TODO: as a contributor it's undefined instead of 'pending'.
@@ -224,11 +229,11 @@ module.exports = Module.extend( {
 	},
 
 	saveDraft: function() {
-		if ( ! this.isEditorChanged() ) {
+		var postStatus = elementor.settings.page.model.get( 'post_status' );
+
+		if ( ! elementor.saver.isEditorChanged() && 'draft' !== postStatus ) {
 			return;
 		}
-
-		var postStatus = elementor.settings.page.model.get( 'post_status' );
 
 		switch ( postStatus ) {
 			case 'publish':
@@ -359,12 +364,15 @@ module.exports = Module.extend( {
 			success: function( data ) {
 				self.afterAjax();
 
-				if ( ! self.isChangedDuringSave ) {
-					self.setFlagEditorChange( false );
-				}
+				if ( 'autosave' !== options.status ) {
+					if ( statusChanged ) {
+						elementor.settings.page.model.set( 'post_status', options.status );
+					}
 
-				if ( 'autosave' !== options.status && statusChanged ) {
-					elementor.settings.page.model.set( 'post_status', options.status );
+					// Notice: Must be after update page.model.post_status to the new status.
+					if ( ! self.isChangedDuringSave ) {
+						self.setFlagEditorChange( false );
+					}
 				}
 
 				if ( data.config ) {

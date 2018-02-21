@@ -736,8 +736,8 @@ class Login extends Base_Widget {
 
 		$this->form_fields_render_attributes();
 		?>
-		<form class="elementor-login elementor-form" method="post" action="<?php echo wp_login_url(); ?>">
-			<input type="hidden" name="redirect_to" value="<?php echo esc_attr( $redirect_url );?>">
+		<form class="elementor-login elementor-form" method="post" action="<?php echo esc_url( site_url( 'wp-login.php', 'login_post' ) ); ?>">
+			<input type="hidden" name="redirect_to" value="<?php echo esc_attr( $redirect_url ); ?>">
 			<div <?php echo $this->get_render_attribute_string( 'wrapper' ); ?>>
 				<div <?php echo $this->get_render_attribute_string( 'field-group' ); ?>>
 					<?php
