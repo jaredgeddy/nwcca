@@ -1,13 +1,19 @@
 # Elementor Pro - by Elementor.com
 
+#### 2018-02-21 v1.15.1
+* Tweak: Custom font title placeholder is not `enter font family`
+* Tweak: Custom font title set as required
+* Fix: Custom font, `font-face` enqueued only once if used in global ([#3513](https://github.com/pojome/elementor/issues/3513))
+* Fix: Added workaround for upload validation which relies on a PHP extension (fileinfo) with inconsistent reporting behavior.
+
 #### 2018-02-19 v1.15.0
 * New: Added custom fonts manager for self hosted fonts ([#852](https://github.com/pojome/elementor/issues/852))
 * New: Integration with Adobe TypeKit fonts ([#631](https://github.com/pojome/elementor/issues/631))
 * Tweak: Clear menu from Nav Menu widget on template export
-* Tweak: Allow zero for GetResponse integration as day of cycle
+* Tweak: Allow zero for GetResponse integration as `day of cycle`
 
 #### 2018-02-13 v1.14.2
-* Fix: Global widget content that got effected by previous update
+* Fix: Global widget content that got affected by previous update
 
 #### 2018-02-13 v1.14.1
 * Tweak: Added `none` option to content animation in CTA widget
@@ -118,7 +124,7 @@
 * Fix: Horizontal scrolling issue with posts grid
 
 #### 2017-10-03 v1.9.3
-* Fix: Condition slide style that got effected by previous update
+* Fix: Condition slide style that got affected by previous update
 
 #### 2017-10-02 v1.9.2
 * New: Added integration with MailPoet 3 for Forms actions

@@ -100,3 +100,35 @@ a.home-banner-tile-btn:hover {
 	text-decoration: none;
 	background:#12395f;
 }
+
+/* Carpenter Training Program CSS */
+
+.ctp-tile.ctp-tile-wrapper {
+	min-height:350px;
+}
+.ctp-tile.ctp-tile-wrapper.ctp-about {
+	min-height:250px;
+}
+.ctp-tile.ctp-tile-wrapper.ctp-forms {
+	min-height:450px;
+}
+.ctp-tile.ctp-tile-wrapper.ctp-roster {
+	min-height:250px;
+}
+.ctp-tile.ctp-tile-wrapper.ctp-forms .ctp-tile-button-two {
+	position: absolute;
+  bottom: 65px;
+  width: 100%;
+}
+.ctp-tile .ctp-tile-button {
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.ctp-tile-button a, .ctp-tile-button-two a{
+	width: 100%;
+	display: block;
+	background: #ad904d;
+	color: #fff;
+	text-align: center;
+}

@@ -1,4 +1,4 @@
-/*! elementor-pro - v1.15.0 - 19-02-2018 */
+/*! elementor-pro - v1.15.1 - 21-02-2018 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 var EditorModule = function() {
 	var self = this;
@@ -2100,11 +2100,23 @@ var Module = function() {
 	};
 
 	this.on = function( eventName, callback ) {
-		if ( ! events[ eventName ] ) {
-			events[ eventName ] = [];
+		if ( 'object' === typeof eventName ) {
+			$.each( eventName, function( singleEventName ) {
+				self.on( singleEventName, this );
+			} );
+
+			return self;
 		}
 
-		events[ eventName ].push( callback );
+		var eventNames = eventName.split( ' ' );
+
+		eventNames.forEach( function( singleEventName ) {
+			if ( ! events[ singleEventName ] ) {
+				events[ singleEventName ] = [];
+			}
+
+			events[ singleEventName ].push( callback );
+		} );
 
 		return self;
 	};
